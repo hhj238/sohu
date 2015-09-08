@@ -1,0 +1,118 @@
+########< 中文工具箱 >#######
+#> 原始档案名称: E:\softs\SecureCRT\migrate.exe
+#> 原始档案大小: 1213808
+#############################
+#=========================
+#> 语系: "English (United States)" -> "Chinese (GB)"
+#> 对话盒: 129
+#=========================
+#> 字型: "MS Shell Dlg" 8 -> "MS Shell Dlg" 8
+#--------------------
+Migration Wizard
+迁移向导
+#--------------------
+Please verify that the automatically detected SecureCRT configuration folder is correct.
+请核对自动检测到的 SecureCRT 可执行文件和配置文件夹是正确的.
+#--------------------
+&Current SecureCRT configuration folder:
+当前SecureCRT 配置文件夹(&C):
+#=========================
+#> 语系: "English (United States)" -> "Chinese (GB)"
+#> 对话盒: 130
+#=========================
+#> 字型: "MS Shell Dlg" 8 -> "MS Shell Dlg" 8
+#--------------------
+Migration Wizard
+迁移向导
+#--------------------
+Migration results:
+迁移结果:
+#=========================
+#> 语系: "English (United States)" -> "Chinese (GB)"
+#> 对话盒: 133
+#=========================
+#> 字型: "MS Shell Dlg" 8 -> "MS Shell Dlg" 8
+#--------------------
+Migration Wizard
+迁移向导
+#--------------------
+Please select the destination folder for the migrated settings.
+请选择这目的文件夹为了这migrated 设置.
+#--------------------
+&New configuration folder:
+新建配置文件夹(&N):
+#--------------------
+...
+...
+#=========================
+#> 语系: "English (United States)" -> "Chinese (GB)"
+#> 对话盒: 134
+#=========================
+#> 字型: "MS Shell Dlg" 8 -> "MS Shell Dlg" 8
+#--------------------
+Migration Wizard
+迁移向导
+#--------------------
+Please verify that the automatically detected CRT configuration folder is correct.
+请核对自动检测的 CRT 可执行文件和配置文件夹是正确的.
+#--------------------
+&Current CRT configuration folder:
+当前CRT 配置文件夹(&C):
+#=========================
+#> 语系: "English (United States)" -> "Chinese (GB)"
+#> 对话盒: 11463
+#=========================
+#> 字型: "MS Shell Dlg" 8 -> "MS Shell Dlg" 8
+#--------------------
+Migration Wizard
+迁移向导
+#--------------------
+Migration has detected older configuration settings that need to be migrated to the new format.  In order to do the migration, this wizard needs to know various configuration paths.  These will be automatically detected when possible.
+移植检测到较旧的配置设置，需要迁移为新格式。 为了执行迁移，本向导需要知道多方面的配置路径。 如果可能，这些将被自动检测到.
+#--------------------
+The following pages will show the information that was detected and give you a chance to change it if necessary.
+此后的页面将显示检测到的信息，如果有必要将给你一个机会来更改它.
+#=========================
+#> 语系: "English (United States)" -> "Chinese (GB)"
+#> 对话盒: 11464
+#=========================
+#> 字型: "MS Shell Dlg" 8 -> "MS Shell Dlg" 8
+#--------------------
+Migration Wizard
+迁移向导
+#--------------------
+Your original SecureFX session database will not be modified by the migration. During this process, your settings will be copied to a new location. However, sessions that use FTP over SSH will not be migrated as that protocol is no longer supported.
+你的原始 SecureFX 会话数据库将不会被迁移所修改。在这个处理期间，你的设置将被复制到一个新位置。然而，使用 SSH 上的 FTP 的会话将不被迁移，因为不再支持该协议.
+#--------------------
+Please verify that the automatically detected configuration folder is correct.
+请核对自动检测到的配置文件夹是否正确.
+#--------------------
+&Current SecureFX database location:
+当前SecureFX数据库地址(&C):
+#=========================
+#> 语系: "English (United States)" -> "Chinese (GB)"
+#> 对话盒: 11465
+#=========================
+#> 字型: "MS Shell Dlg" 8 -> "MS Shell Dlg" 8
+#--------------------
+Migration Wizard
+迁移向导
+#--------------------
+Your original AbsoluteFTP session database will not be modified by the migration. During this process, your settings will be copied to a new location.
+你的原始 AbsoluteFTP 会话数据库将不会被迁移所修改。在这个处理期间，你的设置将被复制到一个新位置.
+#--------------------
+Please verify that the automatically detected configuration folder is correct.
+请核对自动检测到的配置文件夹是否正确.
+#--------------------
+&Current AbsoluteFTP database location:
+当前AbsoluteFTP数据库地址(&C):
+#=========================
+#> 语系: "English (United States)" -> "Chinese (GB)"
+#> 字串表: 7
+#=========================
+#--------------------
+&About Migrate...
+关于迁移(&A)...
+#--------------------
+Are you sure you want to leave the Migration Wizard?
+你确定要离开迁移向导吗?

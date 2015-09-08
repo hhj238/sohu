@@ -1,0 +1,2250 @@
+########< ÖĞÎÄ¹¤¾ßÏä >#######
+#> Ô­Ê¼µµ°¸Ãû³Æ: E:\softs\SecureCRT\ConnectDialog61U.dll
+#> Ô­Ê¼µµ°¸´óĞ¡: 1172832
+#############################
+#=========================
+#> ÓïÏµ: "English (United States)" -> "Chinese (GB)"
+#> Ñ¡µ¥: 131
+#=========================
+#--------------------
+PopupSession
+PopupSession
+#--------------------
+Connect T&erminal\tAlt+T
+Á¬½ÓÖÕ¶Ë(&E)\tAlt+T
+#--------------------
+Connect &File Transfer\tAlt+X
+Á¬½ÓÎÄ¼ş´«Êä(&F)\tAlt+X
+#--------------------
+Connect &Both
+Á¬½ÓÁ½Õß(&B)
+#--------------------
+Cu&t\tCtrl+X
+¼ôÇĞ(&T)\tCtrl+X
+#--------------------
+&Copy\tCtrl+C
+¸´ÖÆ(&C)\tCtrl+C
+#--------------------
+&Paste\tCtrl+V
+Õ³Ìù(&P)\tCtrl+V
+#--------------------
+Find...\tCtrl+F
+²éÕÒ...\tCtrl+F
+#--------------------
+Find Next\tF3
+²éÕÒÏÂÒ»¸ö\tF3
+#--------------------
+&Delete\tDel
+É¾³ı(&D)\tDel
+#--------------------
+Rena&me\tAlt+M
+ÖØÃüÃû(&M)\tAlt+M
+#--------------------
+Cr&eate Desktop Shortcut\tAlt+E
+´´½¨×ÀÃæ¿ì½İ·½Ê½(&E)\tAlt+E
+#--------------------
+User &Arranged Tree\tAlt+A
+ÓÃ»§ÅÅÁĞÊ÷(&A)\tAlt+A
+#--------------------
+Sho&w Descriptions
+ÏÔÊ¾ÃèÊö(&W)
+#--------------------
+&Show Terminal Sessions
+ÏÔÊ¾ÖÕ¶Ë»á»°(&S)
+#--------------------
+&Show Transfer Sessions
+ÏÔÊ¾´«Êä»á»°(&S)
+#--------------------
+P&roperties\tAlt+Enter
+ÊôĞÔ(&R)\tAlt+Enter
+#--------------------
+PopupFolder
+PopupFolder
+#--------------------
+&Connect in Tabs\tAlt+C
+ÔÚ±êÇ©ÖĞÁ¬½Ó(&C)\tAlt+C
+#--------------------
+&Quick Connect\tAlt+Q
+¿ìËÙÁ¬½Ó(&Q)\tAlt+Q
+#--------------------
+&New Session\tAlt+N
+ĞÂ½¨»á»°(&N)\tAlt+N
+#--------------------
+New &Folder\tAlt+F
+ĞÂ½¨ÎÄ¼ş¼Ğ(&F)\tAlt+F
+#--------------------
+Cu&t\tCtrl+X
+¼ôÇĞ(&T)\tCtrl+X
+#--------------------
+&Copy\tCtrl+C
+¸´ÖÆ(&C)\tCtrl+C
+#--------------------
+&Paste\tCtrl+V
+Õ³Ìù(&P)\tCtrl+V
+#--------------------
+Find...\tCtrl+F
+²éÕÒ...\tCtrl+F
+#--------------------
+Find Next\tF3
+²éÕÒÏÂÒ»¸ö\tF3
+#--------------------
+&Delete\tDel
+É¾³ı(&D)\tDel
+#--------------------
+Rena&me\tAlt+M
+ÖØÃüÃû(&M)\tAlt+M
+#--------------------
+Cr&eate Desktop Shortcut\tAlt+E
+´´½¨×ÀÃæ¿ì½İ·½Ê½(&E)\tAlt+E
+#--------------------
+User &Arranged Tree\tAlt+A
+ÓÃ»§ÅÅÁĞÊ÷(&A)\tAlt+A
+#--------------------
+Show Descriptions
+ÏÔÊ¾ÃèÊö
+#--------------------
+&Show Terminal Sessions
+ÏÔÊ¾ÖÕ¶Ë»á»°(&S)
+#--------------------
+&Show Transfer Sessions
+ÏÔÊ¾´«Êä»á»°(&S)
+#--------------------
+PopupMultiple
+PopupMultiple
+#--------------------
+&Connect in Tabs\tAlt+C
+ÔÚ±êÇ©ÖĞÁ¬½Ó(&C)\tAlt+C
+#--------------------
+&New Session\tAlt+N
+ĞÂ½¨»á»°(&N)\tAlt+N
+#--------------------
+New &Folder\tAlt+F
+ĞÂ½¨ÎÄ¼ş¼Ğ(&F)\tAlt+F
+#--------------------
+Find...\tCtrl+F
+²éÕÒ...\tCtrl+F
+#--------------------
+Find Next\tF3
+²éÕÒÏÂÒ»¸ö\tF3
+#--------------------
+&Delete\tDel
+É¾³ı(&D)\tDel
+#--------------------
+Cr&eate Desktop Shortcut\tAlt+E
+´´½¨×ÀÃæ¿ì½İ·½Ê½(&E)\tAlt+E
+#--------------------
+User &Arranged Tree\tAlt+A
+ÓÃ»§ÅÅÁĞÊ÷(&A)\tAlt+A
+#--------------------
+Show Descriptions
+ÏÔÊ¾ÃèÊö
+#=========================
+#> ÓïÏµ: "English (United States)" -> "Chinese (GB)"
+#> ¶Ô»°ºĞ: 108
+#=========================
+#> ×ÖĞÍ: "MS Shell Dlg" 8 -> "MS Shell Dlg" 8
+#--------------------
+Enter Firewall Username
+ÊäÈë·À»ğÇ½ÓÃ»§Ãû
+#--------------------
+The firewall settings require a username.  Please enter a username now.
+·À»ğÇ½Éè¶¨ĞèÒªÒ»¸öÓÃ»§Ãû.  ÏÖÔÚÇëÊäÈëÒ»¸öÓÃ»§Ãû.
+#--------------------
+&Username:
+ÓÃ»§Ãû(&U):
+#--------------------
+&Save username
+±£´æÓÃ»§Ãû(&S)
+#--------------------
+OK
+È·¶¨
+#--------------------
+Cancel
+È¡Ïû
+#=========================
+#> ÓïÏµ: "English (United States)" -> "Chinese (GB)"
+#> ¶Ô»°ºĞ: 204
+#=========================
+#> ×ÖĞÍ: "MS Shell Dlg" 8 -> "MS Shell Dlg" 8
+#--------------------
+AppName
+Ó¦ÓÃÃû
+#--------------------
+Message text\nline2\nline3\nline4\nline5
+Ñ¶Ï¢ÎÄ×Ö\nline2\nline3\nline4\nline5
+#--------------------
+Option message text
+Ñ¡ÏîÑ¶Ï¢ÎÄ×Ö
+#--------------------
+&Yes
+ÊÇ(&Y)
+#--------------------
+&No
+²»(&N)
+#=========================
+#> ÓïÏµ: "English (United States)" -> "Chinese (GB)"
+#> ¶Ô»°ºĞ: 242
+#=========================
+#> ×ÖĞÍ: "MS Shell Dlg" 8 -> "MS Shell Dlg" 8
+#--------------------
+Application Data Folder
+Ó¦ÓÃ³ÌĞòÊı¾İÎÄ¼ş¼Ğ
+#--------------------
+This is the first time that you have run this version of %1!s!%2!c!.  %1!s! needs to set a folder where configuration data can be stored.
+ÕâÊÇÄãµÚÒ»´ÎÔËĞĞ %1!s!¡£ %1!s! ĞèÒªÉèÖÃ¿ÉÒÔ´æ´¢ÅäÖÃÊı¾İµÄÎÄ¼ş¼Ğ¡£
+#--------------------
+Please specify a folder below.
+ÇëÔÚÏÂÃæÖ¸¶¨Ò»¸öÎÄ¼ş¼Ğ.
+#--------------------
+Pressing Cancel will exit the application without setting the configuration folder.
+°´¡°È¡Ïû¡±²»ÉèÖÃÅäÖÃÎÄ¼ş¼Ğ½«ÍË³öÓ¦ÓÃ³ÌĞò¡£
+#--------------------
+...
+...
+#--------------------
+OK
+È·¶¨
+#--------------------
+Cancel
+È¡Ïû
+#=========================
+#> ÓïÏµ: "English (United States)" -> "Chinese (GB)"
+#> ¶Ô»°ºĞ: 255
+#=========================
+#> ×ÖĞÍ: "MS Shell Dlg" 8 -> "MS Shell Dlg" 8
+#--------------------
+Shortcut Name
+¿ì½İ·½Ê½Ãû³Æ
+#--------------------
+OK
+È·¶¨
+#--------------------
+Cancel
+È¡Ïû
+#--------------------
+Please enter a label for the shortcut:
+ÇëÎª¿ì½İ·½Ê½ÊäÈëÒ»¸ö±êÇ©£º
+#--------------------
+Application will create a shortcut on the\nDesktop to the following session:
+Ó¦ÓÃ³ÌĞò½«ÔÚ×ÀÃæÉÏ´´½¨Ò»¸öµ½ÒÔÏÂ»á»°µÄ¿ì½İ·½Ê½£º
+#--------------------
+Session Path
+»á»°Â·¾¶
+#=========================
+#> ÓïÏµ: "English (United States)" -> "Chinese (GB)"
+#> ¶Ô»°ºĞ: 4002
+#=========================
+#> ×ÖĞÍ: "MS Shell Dlg" 8 -> "MS Shell Dlg" 8
+#--------------------
+VPropertyTreeDialog
+VPropertyTreeDialog
+#--------------------
+OK
+È·¶¨
+#--------------------
+Cancel
+È¡Ïû
+#--------------------
+&Category:
+·ÖÀà(&C):
+#=========================
+#> ÓïÏµ: "English (United States)" -> "Chinese (GB)"
+#> ¶Ô»°ºĞ: 5014
+#=========================
+#> ×ÖĞÍ: "MS Shell Dlg" 8 -> "MS Shell Dlg" 8
+#--------------------
+Enter Hostname
+ÊäÈëÖ÷»úÃû
+#--------------------
+OK
+È·¶¨
+#--------------------
+Cancel
+È¡Ïû
+#--------------------
+Please enter a hostname for this session :
+ÇëÎªÕâ¸ö»á»°ÊäÈëÒ»¸öÖ÷»úÃû£º
+#--------------------
+Session name
+»á»°Ãû³Æ
+#=========================
+#> ÓïÏµ: "English (United States)" -> "Chinese (GB)"
+#> ¶Ô»°ºĞ: 10000
+#=========================
+#> ×ÖĞÍ: "MS Shell Dlg" 8 -> "MS Shell Dlg" 8
+#--------------------
+General\nGeneral
+³£¹æ\n³£¹æ
+#--------------------
+Show c&onnection closed dialog
+ÏÔÊ¾Á¬½ÓÒÑ¹Ø±Õ¶Ô»°¿ò(&O)
+#--------------------
+Show co&nfirm disconnect dialog
+ÏÔÊ¾¶Ï¿ªÈ·ÈÏ¶Ô»°¿ò(&N)
+#--------------------
+Sho&w connect dialog on startup
+Æô¶¯Ê±ÏÔÊ¾Á¬½Ó¶Ô»°¿ò(&W)
+#--------------------
+Save e&xpanded folder state in connect dialog
+±£´æÔÚÁ¬½Ó¶Ô»°¿òµÄÎÄ¼ş¼ĞÕ¹¿ª×´Ì¬(&X)
+#--------------------
+New session uses wi&zard
+Ê¹ÓÃÏòµ¼ĞÂ½¨»á»°(&Z)
+#--------------------
+View
+²é¿´
+#--------------------
+Show &toolbar
+ÏÔÊ¾¹¤¾ßÀ¸(&T)
+#--------------------
+Show &status bar
+ÏÔÊ¾×´Ì¬À¸(&S)
+#--------------------
+Show &menu bar
+ÏÔÊ¾²Ëµ¥À¸(&M)
+#--------------------
+Sessions
+»á»°
+#--------------------
+So&rt Connect dialog entries alphabetically
+°´×ÖÄ¸Ë³ĞòÅÅĞòÁ¬½Ó¶Ô»°¿òÌõÄ¿(&R)
+#--------------------
+Minimize to &Activator in the system tray
+½«¼¤»î´°¿Ú×îĞ¡»¯µ½ÏµÍ³ÍĞÅÌ(&A)
+#--------------------
+R&ecently used session list:
+×î½üÊ¹ÓÃµÄ»á»°ÁĞ±í(&E):
+#--------------------
+Configuration &folder
+ÅäÖÃÎÄ¼ş¼Ğ(&F)
+#--------------------
+.
+.
+#=========================
+#> ÓïÏµ: "English (United States)" -> "Chinese (GB)"
+#> ¶Ô»°ºĞ: 10001
+#=========================
+#> ×ÖĞÍ: "MS Shell Dlg" 8 -> "MS Shell Dlg" 8
+#--------------------
+Terminal\nTerminal
+ÖÕ¶Ë
+#--------------------
+&Save window state for each session
+ÎªÃ¿¸ö»á»°±£´æ´°¿Ú×´Ì¬(&S)
+#--------------------
+&Auto reconnect
+×Ô¶¯ÖØĞÂÁ¬½Ó(&A)
+#--------------------
+Mouse
+Êó±ê
+#--------------------
+Copy on s&elect
+¸´ÖÆÑ¡ÖĞ(&E)
+#--------------------
+&Paste on
+Õ³ÌùÓÃ(&P)
+#--------------------
+button
+°´¼ü
+#--------------------
+&Hide mouse pointer on keypress
+ÔÚ°´¼üÊ±Òş²ØÊó±êÖ¸Õë(&H)
+#=========================
+#> ÓïÏµ: "English (United States)" -> "Chinese (GB)"
+#> ¶Ô»°ºĞ: 10002
+#=========================
+#> ×ÖĞÍ: "MS Shell Dlg" 8 -> "MS Shell Dlg" 8
+#--------------------
+Default Session\nDefault Session Setup
+Ô¤ÉèµÄ»á»°ÉèÖÃ
+#--------------------
+The application can be configured to connect automatically to one or more sessions on startup.
+Ó¦ÓÃ³ÌĞò¿ÉÒÔ±»ÅäÖÃÎªÔÚÆô¶¯Ê±×Ô¶¯Á¬½Óµ½Ò»¸ö»ò¶à¸ö»á»°.
+#--------------------
+&Use auto session
+Ê¹ÓÃ×Ô¶¯»á»°(&U)
+#--------------------
+&Add...
+Ôö¼Ó(&A)...
+#--------------------
+&Delete
+É¾³ı(&D)
+#--------------------
+&Edit default settings...
+±à¼­Ô¤ÉèµÄÉèÖÃ(&E)...
+#--------------------
+The default session settings are used when creating a new\nsession and when using Quick Connect.  Click on the\nbutton below to change the default settings.
+µ±´´½¨Ò»¸öĞÂ»á»°ºÍÊ¹ÓÃ¡°¿ìËÙÁ¬½Ó¡±Ê±£¬Ô¤ÉèµÄ»á»°ÉèÖÃ»á±»Ê¹ÓÃ¡£µ¥»÷ÏÂÃæµÄ°´Å¥ÉÏÒÔ¸ü¸ÄÔ¤ÉèµÄÉèÖÃ¡£
+#--------------------
+Edit Default &Settings.
+±à¼­Ô¤ÉèµÄÉèÖÃ(&S).
+#=========================
+#> ÓïÏµ: "English (United States)" -> "Chinese (GB)"
+#> ¶Ô»°ºĞ: 11409
+#=========================
+#> ×ÖĞÍ: "MS Shell Dlg" 8 -> "MS Shell Dlg" 8
+#--------------------
+Appearance\nGlobal Appearance
+Íâ¹Û\nÈ«¾ÖÍâ¹Û
+#--------------------
+&Show session tabs
+ÏÔÊ¾»á»°±êÇ©(&S)
+#--------------------
+Show &horizontal scroll bar
+ÏÔÊ¾Ë®Æ½¹ö¶¯Ìõ(&H)
+#--------------------
+Show chat &window
+ÏÔÊ¾½»»¥´°¿Ú(&W)
+#--------------------
+Show &vertical scroll bar
+ÏÔÊ¾´¹Ö±¹ö¶¯Ìõ(&V)
+#--------------------
+Show &button bar
+ÏÔÊ¾°´Å¥À¸(&B)
+#--------------------
+Us&e ClearType to smooth edges of screen fonts
+Ê¹ÓÃ ClearType À´Ê¹ÆÁÄ»×ÖÌåµÄ±ßÔµÆ½»¬(&E)
+#--------------------
+Wi&ndow left margin:
+´°¿Ú×ó±ß¾à(&N)(&N):
+#--------------------
+pixels
+ÏñËØ
+#--------------------
+Ma&ximum columns:
+×î´óÁĞ(&X):
+#--------------------
+Ch&at window history:
+½»»¥´°¿ÚÀúÊ·(&A):
+#--------------------
+commands
+ÃüÁî
+#--------------------
+Status bar
+×´Ì¬À¸
+#--------------------
+Show cursor &position
+ÏÔÊ¾¹â±êÎ»ÖÃ(&P)
+#--------------------
+Sh&ow elapsed time
+ÏÔÊ¾Ê£ÓàÊ±¼ä(&O)
+#--------------------
+Show window si&ze
+ÏÔÊ¾´°¿Ú´óĞ¡(&Z)
+#--------------------
+Never show secon&ds
+´Ó²»ÏÔÊ¾Ãë(&D)
+#--------------------
+Accessibility
+¸¨ÖúÑ¡Ïî
+#--------------------
+Use trac&kable insertion caret
+Ê¹ÓÃ¿É¸ú×ÙµÄ²åÈëÍÑ×Ö·ûºÅ^(&K)
+#=========================
+#> ÓïÏµ: "English (United States)" -> "Chinese (GB)"
+#> ¶Ô»°ºĞ: 11410
+#=========================
+#> ×ÖĞÍ: "MS Shell Dlg" 8 -> "MS Shell Dlg" 8
+#--------------------
+ANSI Color
+ANSI ÑÕÉ«
+#--------------------
+Button1
+Button1
+#--------------------
+Button1
+Button1
+#--------------------
+Button1
+Button1
+#--------------------
+Button1
+Button1
+#--------------------
+Button1
+Button1
+#--------------------
+Button1
+Button1
+#--------------------
+Button1
+Button1
+#--------------------
+Button1
+Button1
+#--------------------
+&Default
+Ô¤Éè(&D)
+#--------------------
+&Bold colors
+´ÖÌåÑÕÉ«(&B)
+#--------------------
+Button1
+Button1
+#--------------------
+Button1
+Button1
+#--------------------
+Button1
+Button1
+#--------------------
+Button1
+Button1
+#--------------------
+Button1
+Button1
+#--------------------
+Button1
+Button1
+#--------------------
+Button1
+Button1
+#--------------------
+Button1
+Button1
+#--------------------
+D&efault
+Ô¤Éè(&E)
+#=========================
+#> ÓïÏµ: "English (United States)" -> "Chinese (GB)"
+#> ¶Ô»°ºĞ: 11411
+#=========================
+#> ×ÖĞÍ: "MS Shell Dlg" 8 -> "MS Shell Dlg" 8
+#--------------------
+Advanced
+¸ß¼¶
+#--------------------
+&Edit...
+±à¼­(&E)...
+#--------------------
+&New...
+ĞÂ½¨(&N)...
+#--------------------
+&Delete
+É¾³ı(&D)
+#--------------------
+Window transparency
+´°¿ÚÍ¸Ã÷¶È
+#--------------------
+Active window
+»î¶¯µÄ´°¿Ú
+#--------------------
+Inactive window
+²»»î¶¯µÄ´°¿Ú
+#--------------------
+Range
+·¶Î§
+#--------------------
+Range
+·¶Î§
+#--------------------
+Opaque
+²»Í¸Ã÷
+#--------------------
+Opaque
+²»Í¸Ã÷
+#=========================
+#> ÓïÏµ: "English (United States)" -> "Chinese (GB)"
+#> ¶Ô»°ºĞ: 11412
+#=========================
+#> ×ÖĞÍ: "MS Shell Dlg" 8 -> "MS Shell Dlg" 8
+#--------------------
+New Color Scheme
+ĞÂ½¨ÑÕÉ«·½°¸
+#--------------------
+&Color scheme name:
+ÑÕÉ«·½°¸Ãû³Æ(&C):
+#--------------------
+OK
+È·¶¨
+#--------------------
+Cancel
+È¡Ïû
+#=========================
+#> ÓïÏµ: "English (United States)" -> "Chinese (GB)"
+#> ¶Ô»°ºĞ: 11413
+#=========================
+#> ×ÖĞÍ: "MS Shell Dlg" 8 -> "MS Shell Dlg" 8
+#--------------------
+Color Scheme
+ÑÕÉ«·½°¸
+#--------------------
+Sample Button
+Ê¾Àı°´Å¥
+#--------------------
+&Foreground:
+Ç°¾°(&F):
+#--------------------
+Foreground
+Ç°¾°
+#--------------------
+&Background:
+±³¾°(&B):
+#--------------------
+Background
+±³¾°
+#--------------------
+&Advanced
+¸ß¼¶(&A)
+#--------------------
+&Overstrike bold
+µşÓ¡´ÖÌå(&O)
+#--------------------
+&Show underline
+ÏÔÊ¾ÏÂ»®Ïß(&S)
+#--------------------
+&Enable blink
+ÆôÓÃÉÁË¸(&E)
+#--------------------
+OK
+È·¶¨
+#--------------------
+Cancel
+È¡Ïû
+#=========================
+#> ÓïÏµ: "English (United States)" -> "Chinese (GB)"
+#> ¶Ô»°ºĞ: 11414
+#=========================
+#> ×ÖĞÍ: "MS Shell Dlg" 8 -> "MS Shell Dlg" 8
+#--------------------
+Printing\nGlobal Printing
+´òÓ¡/È«¾Ö´òÓ¡
+#--------------------
+&Left:
+×ó(&L):
+#--------------------
+&Top:
+ÉÏ(&T):
+#--------------------
+Margin units are in inches
+ÒÔÓ¢´çÎªµ¥Î»µÄÒ³±ß¾à
+#--------------------
+&Right:
+ÓÒ(&R):
+#--------------------
+&Bottom:
+ÏÂ(&B):
+#--------------------
+&Printer fonts
+´òÓ¡»ú×ÖÌå(&P)
+#--------------------
+Font name and size:
+×ÖÌåÃû³ÆºÍ´óĞ¡:
+#--------------------
+C&hoose...
+Ñ¡Ôñ(&H)...
+#--------------------
+Print Set&up...
+´òÓ¡ÉèÖÃ...(&U)
+#=========================
+#> ÓïÏµ: "English (United States)" -> "Chinese (GB)"
+#> ¶Ô»°ºĞ: 11415
+#=========================
+#> ×ÖĞÍ: "MS Shell Dlg" 8 -> "MS Shell Dlg" 8
+#--------------------
+Advanced\nAdvanced Global Printing
+¸ß¼¶È«¾Ö´òÓ¡
+#--------------------
+&Disable pass-through printing
+½ûÓÃ´«µİ´òÓ¡(&D)
+#--------------------
+&Buffer pass-through printing
+»º³åÇø´«µİ´òÓ¡(&B)
+#--------------------
+Use &raw mode
+Ê¹ÓÃÔ­Ê¼µÄÄ£Ê½(&R)
+#--------------------
+Direct &pass-through printing to port:
+Ö±½Ó´«µİ´òÓ¡µ½¶Ë¿Ú(&P):
+#--------------------
+&Settings...
+ÉèÖÃ(&S)...
+#--------------------
+&Other
+ÆäËü(&O)
+#--------------------
+&Force black on white
+°×É«Ê±Ç¿ÖÆÎªºÚÉ«(&F)
+#=========================
+#> ÓïÏµ: "English (United States)" -> "Chinese (GB)"
+#> ¶Ô»°ºĞ: 11417
+#=========================
+#> ×ÖĞÍ: "MS Shell Dlg" 8 -> "MS Shell Dlg" 8
+#--------------------
+Dialog
+¶Ô»°¿ò
+#--------------------
+&Baud rate:
+²¨ÌØÂÊ(&B):
+#--------------------
+&Data bits:
+Êı¾İÎ»(&D):
+#--------------------
+P&arity:
+ÆæÅ¼Ğ£Ñé(&A):
+#--------------------
+&Stop bits:
+Í£Ö¹Î»(&S):
+#--------------------
+Flow Control
+Á÷¿ØÖÆ
+#--------------------
+D&TR/DSR
+D&TR/DSR
+#--------------------
+&RTS/CTS
+&RTS/CTS
+#--------------------
+&XON/XOFF
+&XON/XOFF
+#--------------------
+OK
+È·¶¨
+#--------------------
+Cancel
+È¡Ïû
+#=========================
+#> ÓïÏµ: "English (United States)" -> "Chinese (GB)"
+#> ¶Ô»°ºĞ: 11419
+#=========================
+#> ×ÖĞÍ: "MS Shell Dlg" 8 -> "MS Shell Dlg" 8
+#--------------------
+Web Browser\nWeb Browser Setup
+ÍøÒ³ä¯ÀÀÆ÷ÉèÖÃ
+#--------------------
+&Use registry setting for web browser
+ÎªÍøÒ³ä¯ÀÀÆ÷Ê¹ÓÃ×¢²á±íÉèÖÃ(&U)
+#--------------------
+...
+...
+#--------------------
+This option designates the Web browser that will be executed when opening a URL in CRT?.  Unselect the above checkbox and enter the path to your Web browser's executable to enable this option.
+Õâ¸öÑ¡ÏîÖ¸ÅÉµ±ÔÚ CRT ÖĞ´ò¿ªÒ»¸ö URL Ê±½«ÔËĞĞÒ»¸öÍøÒ³ä¯ÀÀÆ÷¡£È¡Ïû¸´Ñ¡¿òµÄÑ¡Ôñ²¢ÊäÈëÄãµÄÍøÒ³ä¯ÀÀÆ÷µÄ¿ÉÖ´ĞĞÎÄ¼şÂ·¾¶ÒÔÆôÓÃÕâ¸öÑ¡Ïî¡£
+#--------------------
+U&se Dynamic Data Exchange (DDE)
+Ê¹ÓÃ¶¯Ì¬Êı¾İ½»»»(DDE)(&S)
+#--------------------
+Default URL handler
+Ô¤ÉèµÄURL´¦Àí
+#--------------------
+Telnet:
+Telnet:
+#--------------------
+Make CRT Your Default &Telnet Application
+ÉèÖÃCRTÎªÄãµÄÄ¬ÈÏTelnet¹¤¾ß(&T)
+#--------------------
+SSH1:
+SSH1:
+#--------------------
+Make SecureCRT Your Default SSH&1 Application
+ÉèÖÃSecureCRTÎªÄãµÄÄ¬ÈÏSSH1¹¤¾ß(&1)
+#--------------------
+SSH2:
+SSH2:
+#--------------------
+Make SecureCRT Your Default SSH&2 Application
+ÉèÖÃSecureCRTÎªÄãµÄÄ¬ÈÏSSH2¹¤¾ß(&2)
+#=========================
+#> ÓïÏµ: "English (United States)" -> "Chinese (GB)"
+#> ¶Ô»°ºĞ: 11423
+#=========================
+#> ×ÖĞÍ: "MS Shell Dlg" 8 -> "MS Shell Dlg" 8
+#--------------------
+File Transfer\nFile Transfer
+ÎÄ¼ş´«Êä
+#--------------------
+Default transfer &type:
+Ô¤ÉèµÄ´«ÊäÀàĞÍ(&T):
+#--------------------
+Action for &existing files:
+¶ÔÒÑÓĞÎÄ¼şµÄ²Ù×÷(&E):
+#--------------------
+Pre&ferences
+Ñ¡Ïî(&F)
+#--------------------
+Prompt to re&sume interrupted transfers
+ÌáÊ¾»Ö¸´±»ÖĞ¶ÏµÄ´«Êä(&S)
+#--------------------
+Close &window on disconnect
+¶Ï¿ªÊ±¹Ø±Õ´°¿Ú(&W)
+#--------------------
+&Restore last session directory
+»Ö¸´ÉÏÒ»»á»°Ä¿Â¼(&R)
+#--------------------
+&Connection retry options
+Á¬½ÓÖØÊÔÑ¡Ïî(&C)
+#--------------------
+&Maximum number of attempts:
+³¢ÊÔµÄ×î´ó´ÎÊı(&M):
+#--------------------
+&Delay between attempts (seconds):
+³¢ÊÔ¼ä¸ô(Ãë)(&D):
+#--------------------
+Remote edit optio&ns
+Ô¶³Ì±à¼­Ñ¡Ïî(&N)
+#--------------------
+When the editor e&xits:
+ÔÚ±à¼­Æ÷ÍË³öÊ±(&X):
+#--------------------
+&Upload when the file is saved in the editor
+µ±ÎÄ¼şÔÚ±à¼­Æ÷ÖĞ±£´æÊ±ÉÏ´«(&U)
+#=========================
+#> ÓïÏµ: "English (United States)" -> "Chinese (GB)"
+#> ¶Ô»°ºĞ: 11424
+#=========================
+#> ×ÖĞÍ: "MS Shell Dlg" 8 -> "MS Shell Dlg" 8
+#--------------------
+Advanced\nAdvanced
+¸ß¼¶
+#--------------------
+&Move deleted local files to the Recycle Bin
+½«É¾³ıµÄ±¾µØÎÄ¼şÒÆµ½»ØÊÕÕ¾(&M)
+#--------------------
+&Keep connections alive
+±£³ÖÁ¬½Ó»î¶¯(&K)
+#--------------------
+&Never use cached file for remote editing
+Ô¶¶Ë±à¼­´Ó²»Ê¹ÓÃ»º´æÎÄ¼ş(&N)
+#--------------------
+Lo&g
+ÈÕÖ¾(&G)
+#--------------------
+&Enable log output to file
+ÆôÓÃÈÕÖ¾Êä³öµ½ÎÄ¼ş(&E)
+#--------------------
+Log &filename:
+ÈÕÖ¾ÎÄ¼şÃû(&F):
+#--------------------
+...
+...
+#--------------------
+Permi&ssions
+È¨ÏŞ(&S)
+#--------------------
+File &permissions:
+ÎÄ¼şÈ¨ÏŞ(&P):
+#--------------------
+&Directory permissions:
+Ä¿Â¼È¨ÏŞ(&D):
+#--------------------
+Transfer queue
+´«Êä¶ÓÁĞ
+#--------------------
+&Suspend transfer of queued items
+ÔİÍ£¶ÓÁĞÏîµÄ´«Êä(&S)
+#=========================
+#> ÓïÏµ: "English (United States)" -> "Chinese (GB)"
+#> ¶Ô»°ºĞ: 11425
+#=========================
+#> ×ÖĞÍ: "MS Shell Dlg" 8 -> "MS Shell Dlg" 8
+#--------------------
+View\nView
+²é¿´
+#--------------------
+Show file &attributes in details view
+ÔÚÏêÏ¸ÊÓÍ¼ÖĞÏÔÊ¾ÎÄ¼şÊôĞÔ(&A)
+#--------------------
+Display the folder tre&e
+ÏÔÊ¾ÎÄ¼ş¼ĞÊ÷(&E)
+#--------------------
+&Local window
+±¾µØ´°¿Ú(&L)
+#--------------------
+Display &filenames using Explorer attributes
+Ê¹ÓÃ×ÊÔ´¹ÜÀíÆ÷ÊôĞÔÏÔÊ¾ÎÄ¼şÃû(&F)
+#--------------------
+Do not show &hidden or system files
+²»ÏÔÊ¾Òş²Ø»òÏµÍ³ÎÄ¼ş(&H)
+#--------------------
+&Remote window
+Ô¶³Ì´°¿Ú(&R)
+#--------------------
+Do not show &dot files
+²»ÏÔÊ¾µã(.)ÎÄ¼ş(&D)
+#--------------------
+Display file times in local time &zone
+ÒÔ±¾µØÊ±ÇøÏÔÊ¾ÎÄ¼şÊ±¼ä(&Z)
+#--------------------
+Display the log &view
+ÏÔÊ¾ÈÕÖ¾ÊÓÍ¼(&V)
+#--------------------
+Save session &window position
+±£´æ»á»°´°¿ÚÎ»ÖÃ(&W)
+#--------------------
+Log window &buffer size:
+ÈÕÖ¾´°¿Ú»º³åÇø´óĞ¡(&B):
+#--------------------
+&Transfer window
+´«Êä´°¿Ú(&T)
+#--------------------
+Number &style:
+Êı×ÖÑùÊ½(&S):
+#--------------------
+Display the full &path in title bar
+ÔÚ±êÌâÀ¸ÏÔÊ¾ÍêÕûÂ·¾¶(&P)
+#=========================
+#> ÓïÏµ: "English (United States)" -> "Chinese (GB)"
+#> ¶Ô»°ºĞ: 11426
+#=========================
+#> ×ÖĞÍ: "MS Shell Dlg" 8 -> "MS Shell Dlg" 8
+#--------------------
+FTP\nFTP
+FTP\nFTP
+#--------------------
+Use system default size
+Ê¹ÓÃÏµÍ³Ô¤ÉèµÄ´óĞ¡
+#--------------------
+Size (bytes):
+´óĞ¡ (×Ö½Ú):
+#--------------------
+&Send buffer
+·¢ËÍ»º³åÇø(&S)
+#--------------------
+Use system default size
+Ê¹ÓÃÏµÍ³Ô¤ÉèµÄ´óĞ¡
+#--------------------
+Size (bytes):
+´óĞ¡ (×Ö½Ú):
+#--------------------
+&Data connection options
+Êı¾İÁ¬½ÓÑ¡Ïî(&D)
+#--------------------
+Use outgoing data connections (&PASV)
+Ê¹ÓÃ³öÕ¾Êı¾İÁ¬½Ó(PASV)(&P)
+#--------------------
+Disable direct server-to-server &transfers
+½ûÓÃÖ±½Ó¡°·şÎñÆ÷µ½·şÎñÆ÷¡±´«Êä(&T)
+#=========================
+#> ÓïÏµ: "English (United States)" -> "Chinese (GB)"
+#> ¶Ô»°ºĞ: 11427
+#=========================
+#> ×ÖĞÍ: "MS Shell Dlg" 8 -> "MS Shell Dlg" 8
+#--------------------
+Sound\nSound
+ÉùÒô\nÉùÒô
+#--------------------
+...
+...
+#--------------------
+Unexpected &disconnect:
+ÒâÍâ¶Ï¿ª(&D):
+#--------------------
+...
+...
+#--------------------
+&Transfer complete:
+´«ÊäÍê³É(&T):
+#--------------------
+...
+...
+#--------------------
+&Error:
+´íÎó(&E):
+#--------------------
+...
+...
+#=========================
+#> ÓïÏµ: "English (United States)" -> "Chinese (GB)"
+#> ¶Ô»°ºĞ: 11428
+#=========================
+#> ×ÖĞÍ: "MS Shell Dlg" 8 -> "MS Shell Dlg" 8
+#--------------------
+File Types\nFile Types
+ÎÄ¼şÀà±ğ\nFile Àà±ğ
+#--------------------
+&New...
+ĞÂ½¨(&N)...
+#--------------------
+&Delete
+É¾³ı(&D)
+#--------------------
+&Edit...
+±à¼­(&E)...
+#--------------------
+E&xt.:
+À©Õ¹Ãû(&X):
+#--------------------
+&Search
+ËÑË÷(&S)
+#--------------------
+&Reset All
+È«²¿¸´Î»(&R)
+#--------------------
+Det&ails
+ÏêÏ¸(&A)
+#--------------------
+Extens&ions:
+À©Õ¹Ãû(&I):
+#--------------------
+&Transfer type:
+´«ÊäÀàĞÍ(&T):
+#--------------------
+&Open with:
+´ò¿ª·½Ê½(&O):
+#=========================
+#> ÓïÏµ: "English (United States)" -> "Chinese (GB)"
+#> ¶Ô»°ºĞ: 11429
+#=========================
+#> ×ÖĞÍ: "MS Shell Dlg" 8 -> "MS Shell Dlg" 8
+#--------------------
+Edit File Types
+±à¼­ÎÄ¼şÀàĞÍ
+#--------------------
+&Description:
+ÃèÊö(&D):
+#--------------------
+&Transfer type:
+´«ÊäÀàĞÍ(&T):
+#--------------------
+&Open with:
+´ò¿ª·½Ê½(&O):
+#--------------------
+&Browse...
+ä¯ÀÀ(&B)...
+#--------------------
+Re&mote open:
+Ô¶³Ì´ò¿ª(&M):
+#--------------------
+Associated &extensions
+ÒÑ¹ØÁªµÄÀ©Õ¹Ãû(&E)
+#--------------------
+&Add...
+Ìí¼Ó(&A)...
+#--------------------
+&Remove
+ÒÆÈ¥(&R)
+#--------------------
+&Load Defaults
+ÔØÈëÔ¤Éè(&L)
+#--------------------
+Default &icon
+Ô¤ÉèÍ¼±ê(&I)
+#--------------------
+&Change Icon...
+¸ü¸ÄÍ¼±ê(&C)...
+#--------------------
+OK
+È·¶¨
+#--------------------
+Cancel
+È¡Ïû
+#=========================
+#> ÓïÏµ: "English (United States)" -> "Chinese (GB)"
+#> ¶Ô»°ºĞ: 11433
+#=========================
+#> ×ÖĞÍ: "MS Shell Dlg" 8 -> "MS Shell Dlg" 8
+#--------------------
+Add Extension
+Ìí¼ÓÀ©Õ¹Ãû
+#--------------------
+&Extension:
+À©Õ¹Ãû(&E):
+#--------------------
+OK
+È·¶¨
+#--------------------
+Cancel
+È¡Ïû
+#=========================
+#> ÓïÏµ: "English (United States)" -> "Chinese (GB)"
+#> ¶Ô»°ºĞ: 11434
+#=========================
+#> ×ÖĞÍ: "MS Shell Dlg" 8 -> "MS Shell Dlg" 8
+#--------------------
+Change Icon
+¸ü¸ÄÍ¼±ê
+#--------------------
+&File name:
+ÎÄ¼şÃû(&F):
+#--------------------
+Current &icon:
+µ±Ç°Í¼±ê(&I):
+#--------------------
+OK
+È·¶¨
+#--------------------
+Cancel
+È¡Ïû
+#--------------------
+Browse...
+ä¯ÀÀ...
+#=========================
+#> ÓïÏµ: "English (United States)" -> "Chinese (GB)"
+#> ¶Ô»°ºĞ: 11437
+#=========================
+#> ×ÖĞÍ: "MS Shell Dlg" 8 -> "MS Shell Dlg" 8
+#--------------------
+Options
+Ñ¡Ïî
+#--------------------
+Local &window:
+±¾µØ´°¿Ú(&W):
+#--------------------
+...
+...
+#--------------------
+&Download directory:
+ÏÂ´«Ä¿Â¼(&D):
+#--------------------
+...
+...
+#--------------------
+&Cache directory:
+»º´æÄ¿Â¼(&C):
+#--------------------
+...
+...
+#--------------------
+&Anonymous login
+ÄäÃûµÇÂ½(&A)
+#--------------------
+&Password:
+ÃÜÂë(&P):
+#--------------------
+Directory tree optio&ns
+Ä¿Â¼Ê÷Ñ¡Ïî(&N)
+#--------------------
+Disable directory tre&e detection
+½ûÓÃÄ¿Â¼Ê÷¼ì²â(&E)
+#--------------------
+Transfer &options
+´«ÊäÑ¡Ïî(&O)
+#--------------------
+&Verify file status on retrieve
+¼ìË÷Ê±Ğ£ÑéÎÄ¼ş×´Ì¬(&V)
+#--------------------
+Directory listin&g options
+Ä¿Â¼ÁĞ±íÑ¡Ïî(&G)
+#--------------------
+Resolve &symbolic links
+½âÎö·ûºÅÁ´½Ó(&S)
+#=========================
+#> ÓïÏµ: "English (United States)" -> "Chinese (GB)"
+#> ¶Ô»°ºĞ: 11438
+#=========================
+#> ×ÖĞÍ: "MS Shell Dlg" 8 -> "MS Shell Dlg" 8
+#--------------------
+Connection\nConnection
+Á¬½Ó\nÁ¬½Ó
+#--------------------
+&Protocol:
+Ğ­Òé(&P):
+#--------------------
+D&escription
+ÃèÊö(&E)
+#--------------------
+Enter a description below that may be optionally displayed in the Connect window.
+ÔÚÏÂÃæÊäÈëÒ»¸öÃèÊö£¬Ëü¿ÉÒÔ¿ÉÑ¡ÔñµØ±»ÏÔÊ¾ÔÚÁ¬½Ó´°¿ÚÖĞ.
+#=========================
+#> ÓïÏµ: "English (United States)" -> "Chinese (GB)"
+#> ¶Ô»°ºĞ: 11439
+#=========================
+#> ×ÖĞÍ: "MS Shell Dlg" 8 -> "MS Shell Dlg" 8
+#--------------------
+Logon Actions\nLogon Actions
+µÇÂ½¶¯×÷\nµÇÂ½¶¯×÷
+#--------------------
+Au&tomate logon
+×Ô¶¯µÇÂ½(&T)
+#--------------------
+&Send initial carriage return
+·¢ËÍ³õÊ¼»Ø³µ(&S)
+#--------------------
+&Add...
+Ôö¼Ó(&A)...
+#--------------------
+&Edit...
+±à¼­(&E)...
+#--------------------
+&Delete
+É¾³ı(&D)
+#--------------------
+&Logon script:
+µÇÂ½½Å±¾(&L):
+#--------------------
+...
+...
+#=========================
+#> ÓïÏµ: "English (United States)" -> "Chinese (GB)"
+#> ¶Ô»°ºĞ: 11440
+#=========================
+#> ×ÖĞÍ: "MS Shell Dlg" 8 -> "MS Shell Dlg" 8
+#--------------------
+Log File
+¼ÇÂ¼ÎÄ¼ş
+#--------------------
+...
+...
+#--------------------
+Options
+Ñ¡Ïî
+#--------------------
+&Prompt for filename
+ÌáÊ¾ÎÄ¼şÃû(&P)
+#--------------------
+&Start log upon connect
+ÔÚÁ¬½ÓÉÏÆô¶¯¼ÇÂ¼(&S)
+#--------------------
+&Raw log
+Ô­Ê¼¼ÇÂ¼(&R)
+#--------------------
+&Overwrite file
+¸²¸ÇÎÄ¼ş(&O)
+#--------------------
+&Append to file
+×·¼Óµ½ÎÄ¼ş(&A)
+#--------------------
+Custom log data
+×Ô¶¨Òå¼ÇÂ¼Êı¾İ
+#--------------------
+&Upon connect:
+Á¬½ÓÊ±(&U):
+#--------------------
+Upon &disconnect:
+¶Ï¿ªÊ±(&D):
+#--------------------
+On &each line:
+ÔÚÃ¿ĞĞ(&E):
+#--------------------
+Lo&g only custom data
+Ö»¼ÇÂ¼×Ô¶¨ÒåÊı¾İ(&G)
+#--------------------
+Substitutions
+Ìæ»»
+#--------------------
+%H - hostname
+%H - Ö÷»úÃû
+#--------------------
+%S - session name
+%S - »á»°Ãû³Æ
+#--------------------
+See Help for more log file name and custom log data substitutions
+¸ü¶à¼ÇÂ¼ÎÄ¼şÃûºÍ×Ô¶¨ÒåÊı¾İÌæ»»£¬Çë²é°ïÖú
+#--------------------
+%M - 2-digit month
+%M - ÔÂ(2 Î»Êı×Ö)
+#--------------------
+%D - 2-digit day
+%D - ÈÕ(2 Î»Êı×Ö)
+#--------------------
+%h - 2-digit hour
+%h - Ğ¡Ê±(2 Î»Êı×Ö)
+#--------------------
+%m - 2-digit minute
+%m - ·ÖÖÓ(2 Î»Êı×Ö)
+#=========================
+#> ÓïÏµ: "English (United States)" -> "Chinese (GB)"
+#> ¶Ô»°ºĞ: 11441
+#=========================
+#> ×ÖĞÍ: "MS Shell Dlg" 8 -> "MS Shell Dlg" 8
+#--------------------
+Terminal\nTerminal
+ÖÕ¶Ë\nÖÕ¶Ë
+#--------------------
+&Audio bell
+ÉùÒôÏìÁå(&A)
+#--------------------
+&Jump scroll
+ÌøÔ¾¹ö¶¯(&J)
+#--------------------
+&Visual bell
+ÊÓ¾õÏìÁå(&V)
+#--------------------
+Scr&oll to clear screen
+¹ö¶¯µ½Çå³ıÆÁÄ»(&O)
+#--------------------
+Clo&se on disconnect
+¶Ï¿ªÊ±¹Ø±Õ(&S)
+#--------------------
+Scroll &to bottom on output
+ÔÚÊä³öÊ±¹ö¶¯µ½µ×²¿(&T)
+#--------------------
+Clea&r on disconnect
+¶Ï¿ªÊ±Çå³ı(&R)
+#--------------------
+Scroll to &bottom on keypress
+ÔÚ°´¼üÊ±¹ö¶¯µ½µ×²¿(&B)
+#--------------------
+A&uto reconnect
+×Ô¶¯ÖØĞÂÁ¬½Ó(&U)
+#--------------------
+Mi&nimize to Activator in the system tray
+×îĞ¡»¯¼¤»î´°¿Úµ½ÏµÍ³ÍĞÅÌ(&N)
+#--------------------
+Anti-idle
+·´¿ÕÏĞ
+#--------------------
+Sen&d string:
+·¢ËÍ×Ö´®(&D):
+#--------------------
+&every
+Ã¿(&E)
+#--------------------
+seconds
+Ãë
+#--------------------
+Send &protocol NO-OP
+·¢ËÍĞ­Òé ²»ÊÇop(&P)
+#--------------------
+ever&y
+Ã¿(&Y)
+#--------------------
+seconds
+Ãë
+#--------------------
+Selection
+Ñ¡¶¨ÄÚÈİ
+#--------------------
+Set &word delimiter characters:
+ÉèÖÃµ¥´Ê·Ö¸ô·û(&W):
+#=========================
+#> ÓïÏµ: "English (United States)" -> "Chinese (GB)"
+#> ¶Ô»°ºĞ: 11442
+#=========================
+#> ×ÖĞÍ: "MS Shell Dlg" 8 -> "MS Shell Dlg" 8
+#--------------------
+Emulation\nEmulation
+·ÂÕæ\n·ÂÕæ
+#--------------------
+&Terminal:
+ÖÕ¶Ë(&T):
+#--------------------
+&ANSI Color
+ANSI ÑÕÉ«(&A)
+#--------------------
+&Use color scheme
+Ê¹ÓÃÑÕÉ«·½°¸(&U)
+#--------------------
+Select an alternate &keyboard emulation
+Ñ¡ÔñÒ»¸ö±¸ÓÃµÄ¼üÅÌ·ÂÕæ(&K)
+#--------------------
+...
+...
+#--------------------
+&Size
+´óĞ¡(&S)
+#--------------------
+Logical &rows:
+Âß¼­ĞĞ(&R):
+#--------------------
+Logical c&olumns:
+Âß¼­ÁĞ(&O):
+#--------------------
+O&n resize
+ÔÚµ÷Õû´óĞ¡Ê±(&N)
+#--------------------
+S&ynchronize view to size
+Í¬²½ÊÓÍ¼µ½´óĞ¡(&Y)
+#--------------------
+Scale the &font
+Ëõ·Å×ÖÌå(&F)
+#--------------------
+Retain si&ze and font
+±£³Ö´óĞ¡ºÍ×ÖÌå(&Z)
+#--------------------
+Scrollback
+»Ø¹ö
+#--------------------
+Scrollback &buffer:
+»Ø¹ö»º³åÇø(&B):
+#=========================
+#> ÓïÏµ: "English (United States)" -> "Chinese (GB)"
+#> ¶Ô»°ºĞ: 11443
+#=========================
+#> ×ÖĞÍ: "MS Shell Dlg" 8 -> "MS Shell Dlg" 8
+#--------------------
+Modes\nEmulation Modes
+Ä£Ê½\n·ÂÕæÄ£Ê½
+#--------------------
+&Cursor key mode
+¹â±ê¼üÄ£Ê½(&C)
+#--------------------
+&Line wrap
+»»ĞĞ(&L)
+#--------------------
+&New line mode
+ĞÂ½¨ĞĞÄ£Ê½(&N)
+#--------------------
+N&umeric keypad
+Êı×ÖĞ¡¼üÅÌ(&U)
+#--------------------
+&Application keypad
+Ó¦ÓÃ³ÌĞò¼üÇø(&A)
+#--------------------
+Cu&rrent modes
+µ±Ç°Ä£Ê½(&R)
+#--------------------
+Cur&sor key mode
+¹â±ê¼üÄ£Ê½(&S)
+#--------------------
+Lin&e wrap
+»»ĞĞ(&E)
+#--------------------
+Ne&w line mode
+ĞÂ½¨ĞĞÄ£Ê½(&W)
+#--------------------
+Nu&meric keypad
+Êı×ÖĞ¡¼üÅÌ(&M)
+#--------------------
+A&pplication keypad
+Ó¦ÓÃ³ÌĞò¼üÇø(&P)
+#--------------------
+M&ode switching
+Ä£Ê½×ª»»(&O)
+#--------------------
+Ena&ble 80/132 column switching
+ÆôÓÃ 80/132 ÁĞ×ª»»(&B)
+#--------------------
+Enable cursor &key mode switching
+ÆôÓÃ¹â±ê¼üÄ£Ê½×ª»»(&K)
+#--------------------
+Enable ke&ypad mode switching
+ÆôÓÃĞ¡¼üÅÌÄ£Ê½×ª»»(&Y)
+#--------------------
+Enable line wrap mo&de switching
+ÆôÓÃ»»ĞĞÄ£Ê½×ª»»(&D)
+#=========================
+#> ÓïÏµ: "English (United States)" -> "Chinese (GB)"
+#> ¶Ô»°ºĞ: 11444
+#=========================
+#> ×ÖĞÍ: "MS Shell Dlg" 8 -> "MS Shell Dlg" 8
+#--------------------
+Emacs\nEmacs Compatibility
+Emacs\nEmacs ¼æÈİĞÔ
+#--------------------
+If you commonly use Emacs, you can configure your session to use the ALT key as the meta key.  However, this will affect your ability to use the ALT key combinations to access menus. 
+Èç¹ûÄúÒ»°ãÊ¹ÓÃ Emacs£¬¿ÉÒÔÅäÖÃ»á»°Ê¹ÓÃ ALT ¼ü×÷ÎªÔª¼ü¡£È»¶ø£¬Õâ½«Ó°ÏìÊ¹ÓÃ ALT ¼ü×éºÏÀ´·ÃÎÊ²Ëµ¥µÄÄÜÁ¦. 
+#--------------------
+Also, many international keyboards have an ALTGR key which uses the same keyboard code as CTRL+ALT.
+Í¬Ñù£¬¶àÊı¹ú¼ÊÍ¨ÓÃ¼üÅÌÓĞÒ»¸öÊ¹ÓÃºÍ CTRL+ALT ÏàÍ¬µÄ¼üÅÌ´úÂëµÄ ALTGR ¼ü.
+#--------------------
+&Use ALT as meta key
+Ê¹ÓÃ ALT ×÷ÎªÔª¼ü(&U)
+#--------------------
+&Preserve ALTGR international key
+±£³Ö ALTGR ¹ú¼Ê¼ü(&P)
+#--------------------
+Us&e 8th bit for meta key (requires termcap support)
+ÎªÔª¼üÊ¹ÓÃµÚ 8 Î»(ĞèÒª termcap Ö§³Ö)(&E)
+#--------------------
+&Send escape for meta key
+ÎªÔª¼ü·¢ËÍ escape(&S)
+#=========================
+#> ÓïÏµ: "English (United States)" -> "Chinese (GB)"
+#> ¶Ô»°ºĞ: 11445
+#=========================
+#> ×ÖĞÍ: "MS Shell Dlg" 8 -> "MS Shell Dlg" 8
+#--------------------
+Mapped Keys\nMapped Keys
+Ó³Éä¼ü\nÓ³Éä¼ü
+#--------------------
+Map a &Key...
+Ó³Éä¼ü(&K)...
+#--------------------
+&Edit...
+±à¼­(&E)...
+#--------------------
+&Delete
+É¾³ı(&D)
+#--------------------
+Other mappings
+ÆäËüÓ³Éä
+#--------------------
+&Backspace sends delete
+Backspace ·¢ËÍ delete(&B)
+#--------------------
+Delete &sends backspace
+Delete ·¢ËÍ backspace(&S)
+#--------------------
+CUA settings
+CUA ÉèÖÃ
+#--------------------
+&Use Windows copy and paste hotkeys
+Ê¹ÓÃ Windows ¸´ÖÆºÍÕ³ÌùÈÈ¼ü(&U)
+#=========================
+#> ÓïÏµ: "English (United States)" -> "Chinese (GB)"
+#> ¶Ô»°ºĞ: 11446
+#=========================
+#> ×ÖĞÍ: "MS Shell Dlg" 8 -> "MS Shell Dlg" 8
+#--------------------
+Map Selected Key
+Ó³ÉäÑ¡¶¨µÄ¼ü
+#--------------------
+Alt-Ctrl-Shift-VK_M
+Alt-Ctrl-Shift-VK_M
+#--------------------
+Action
+¶¯×÷
+#--------------------
+&Function
+¹¦ÄÜ(&F)
+#--------------------
+&Label
+±êÇ©(&L)
+#--------------------
+...
+...
+#--------------------
+&Default
+Ô¤Éè(&D)
+#--------------------
+&Arguments:
+²ÎÊı(&A):
+#--------------------
+OK
+È·¶¨
+#--------------------
+Cancel
+È¡Ïû
+#=========================
+#> ÓïÏµ: "English (United States)" -> "Chinese (GB)"
+#> ¶Ô»°ºĞ: 11448
+#=========================
+#> ×ÖĞÍ: "MS Shell Dlg" 8 -> "MS Shell Dlg" 8
+#--------------------
+Map Key
+Ó³Éä¼ü
+#--------------------
+Using the keyboard, press the key you want to map or click Cancel.
+Ê¹ÓÃ¼üÅÌ£¬°´ÏÂÏ£ÍûÓ³ÉäµÄ¼ü»òÕßµ¥»÷¡°È¡Ïû¡±.
+#--------------------
+Waiting for keyboard input...
+µÈ´ı¼üÅÌÊäÈë...
+#--------------------
+Cancel
+È¡Ïû
+#=========================
+#> ÓïÏµ: "English (United States)" -> "Chinese (GB)"
+#> ¶Ô»°ºĞ: 11449
+#=========================
+#> ×ÖĞÍ: "MS Shell Dlg" 8 -> "MS Shell Dlg" 8
+#--------------------
+Advanced\nAdvanced Emulation
+¸ß¼¶\n¸ß¼¶·ÂÕæ
+#--------------------
+&Answerback:
+Ó¦´ğ(&A):
+#--------------------
+&Terminal type:
+ÖÕ¶ËÀàĞÍ(&T):
+#--------------------
+&Display tab as:
+ÏÔÊ¾±êÇ©Îª(&D):
+#--------------------
+Other
+ÆäËü
+#--------------------
+Local &echo
+±¾µØ»ØÏÔ(&E)
+#--------------------
+&Strip 8th bit
+°şÀëµÚ 8 Î»(&S)
+#--------------------
+Shift &forces local mouse operations
+±ä»» Ç¿ÖÆ±¾µØÊó±ê²Ù×÷(&F)
+#--------------------
+&Ignore window title change requests
+ºöÂÔ´°¿Ú±êÌâ¸ü¸ÄÇëÇó(&I)
+#--------------------
+Copy t&ranslates ANSI line-drawing characters
+¸´ÖÆ×ª»»ANSIÏßÌõ»æÖÆ×Ö·û(&R)
+#--------------------
+Tra&nslate incoming CR to CR/LF
+×ª»»ÊÕµ½µÄCRÎªCR/LF(&N)
+#--------------------
+Send delay options
+ÑÓ³Ù·¢ËÍÑ¡Ïî
+#--------------------
+&Line send delay:
+ĞĞ·¢ËÍÑÓ³Ù(&L):
+#--------------------
+milliseconds
+ºÁÃë
+#--------------------
+C&haracter send delay:
+ÑÓ³Ù·¢ËÍ×Ö½Ú(&H):
+#--------------------
+milliseconds
+ºÁÃë
+#=========================
+#> ÓïÏµ: "English (United States)" -> "Chinese (GB)"
+#> ¶Ô»°ºĞ: 11450
+#=========================
+#> ×ÖĞÍ: "MS Shell Dlg" 8 -> "MS Shell Dlg" 8
+#--------------------
+Appearance\nWindow and Text Appearance
+Íâ¹Û\n´°¿ÚºÍÎÄ±¾Íâ¹Û
+#--------------------
+&Edit...
+±à¼­(&E)...
+#--------------------
+Ne&w
+ĞÂ½¨(&W)
+#--------------------
+Fonts
+×ÖÌå
+#--------------------
+&Normal font:
+±ê×¼×ÖÌå(&N):
+#--------------------
+Normal Sample
+±ê×¼Ê¾Àı
+#--------------------
+&Font...
+×ÖÌå(&F)...
+#--------------------
+N&arrow font:
+¾«È·×ÖÌå(&A):
+#--------------------
+Narrow Sample
+¾«È·Ê¾Àı
+#--------------------
+F&ont...
+×ÖÌå(&O)...
+#--------------------
+C&haracter encoding:
+×Ö·û±àÂë(&H):
+#--------------------
+Use Unico&de line-drawing characters
+Ê¹ÓÃ Unicode ÏßÌõ»æÖÆ×Ö·û(&D)
+#--------------------
+Cursor
+¹â±ê
+#--------------------
+Cursor st&yle:
+¹â±êÑùÊ½(&Y):
+#--------------------
+&Use color:
+Ê¹ÓÃÑÕÉ«(&U):
+#--------------------
+Colo&r...
+ÑÕÉ«(&R)...
+#--------------------
+&Blinking
+ÉÁË¸(&B)
+#--------------------
+Only Default and None are valid for vt100 fonts
+Ö»ÓĞÔ¤ÉèºÍÎŞ¶Ô×ÖÌåvt100ÓĞĞ§
+#=========================
+#> ÓïÏµ: "English (United States)" -> "Chinese (GB)"
+#> ¶Ô»°ºĞ: 11452
+#=========================
+#> ×ÖĞÍ: "MS Shell Dlg" 8 -> "MS Shell Dlg" 8
+#--------------------
+Window\nSession Window
+´°¿Ú\n»á»°´°¿Ú
+#--------------------
+Show chat &window
+ÏÔÊ¾½»»¥´°¿Ú(&W)
+#--------------------
+Show &horizontal scroll bar
+ÏÔÊ¾Ë®Æ½¹ö¶¯Ìõ(&H)
+#--------------------
+Show &vertical scroll bar
+ÏÔÊ¾´¹Ö±¹ö¶¯Ìõ(&V)
+#--------------------
+Show &button bar:
+ÏÔÊ¾°´Å¥À¸(&B):
+#--------------------
+&Disable resize
+½ûÓÃµ÷Õû´óĞ¡(&D)
+#--------------------
+Session window &always on top
+»á»°´°¿Ú×ÜÔÚ×îÉÏ(&A)
+#--------------------
+Title &bar:
+±êÌâÀ¸(&B):
+#--------------------
+&Initial position:
+³õÊ¼Î»ÖÃ(&I):
+#=========================
+#> ÓïÏµ: "English (United States)" -> "Chinese (GB)"
+#> ¶Ô»°ºĞ: 11453
+#=========================
+#> ×ÖĞÍ: "S Shell Dlg" 8 -> "S Shell Dlg" 8
+#--------------------
+Printing\nSession Printing
+´òÓ¡\n»á»°´òÓ¡
+#--------------------
+Margins
+Ò³±ß¾à
+#--------------------
+&Left:
+×ó(&L):
+#--------------------
+&Top:
+ÉÏ(&T):
+#--------------------
+&Right:
+ÓÒ(&R):
+#--------------------
+&Bottom:
+ÏÂ(&B):
+#--------------------
+Margin units are in inches
+ÒÔÓ¢´çÎªµ¥Î»µÄÒ³±ß¾à
+#--------------------
+Printer fonts
+´òÓ¡»ú×ÖÌå
+#--------------------
+Font name and size:
+×ÖÌåÃû³ÆºÍ´óĞ¡:
+#--------------------
+C&hoose...
+Ñ¡Ôñ(&H)...
+#--------------------
+&Print Setup...
+´òÓ¡ÉèÖÃ(&P)...
+#=========================
+#> ÓïÏµ: "English (United States)" -> "Chinese (GB)"
+#> ¶Ô»°ºĞ: 11454
+#=========================
+#> ×ÖĞÍ: "MS Shell Dlg" 8 -> "MS Shell Dlg" 8
+#--------------------
+Advanced\nAdvanced Session Printing
+¸ß¼¶\n¸ß¼¶»á»°´òÓ¡
+#--------------------
+&Pass-through printing
+´«µİ´òÓ¡(&P)
+#--------------------
+&Disable pass-through printing
+½ûÓÃ´«µİ´òÓ¡(&D)
+#--------------------
+&Buffer pass-through printing
+»º³åÇø´«µİ´òÓ¡(&B)
+#--------------------
+Use raw &mode
+Ê¹ÓÃÔ­Ê¼Ä£Ê½(&M)
+#--------------------
+Di&rect pass-through printing to port:
+Ö±½Ó´«µİ´òÓ¡µ½¶Ë¿Ú(&R):
+#--------------------
+&Settings...
+ÉèÖÃ(&S)...
+#--------------------
+&Other
+ÆäËü(&O)
+#--------------------
+&Force black on white
+°×É«Ê±Ç¿ÖÆÎªºÚÉ«(&F)
+#=========================
+#> ÓïÏµ: "English (United States)" -> "Chinese (GB)"
+#> ¶Ô»°ºĞ: 11456
+#=========================
+#> ×ÖĞÍ: "MS Shell Dlg" 8 -> "MS Shell Dlg" 8
+#--------------------
+File Transfer\nFile Transfer
+ÎÄ¼ş´«Êä\nÎÄ¼ş´«Êä
+#--------------------
+Local &window:
+±¾µØ´°¿Ú(&W):
+#--------------------
+...
+...
+#--------------------
+&Download directory:
+ÏÂÔØÄ¿Â¼(&D):
+#--------------------
+...
+...
+#--------------------
+&Remote directories
+Ô¶³ÌÄ¿Â¼(&R)
+#--------------------
+&Initial directory:
+³õÊ¼Ä¿Â¼(&I):
+#--------------------
+Directory tree optio&ns
+Ä¿Â¼Ê÷Ñ¡Ïî(&N)
+#--------------------
+Disable directory tre&e detection
+½ûÓÃÄ¿Â¼Ê÷¼ì²â(&E)
+#--------------------
+Transfer &options
+´«ÊäÑ¡Ïî(&O)
+#--------------------
+&Verify file status on retrieve
+¼ìË÷Ê±Ğ£ÑéÎÄ¼ş×´Ì¬(&V)
+#--------------------
+Directory listin&g options
+Ä¿Â¼ÁĞ±íÑ¡Ïî(&G)
+#--------------------
+Resolve &symbolic links
+½âÎö·ûºÅÁ´½Ó(&S)
+#=========================
+#> ÓïÏµ: "English (United States)" -> "Chinese (GB)"
+#> ¶Ô»°ºĞ: 11457
+#=========================
+#> ×ÖĞÍ: "MS Shell Dlg" 8 -> "MS Shell Dlg" 8
+#--------------------
+X/Y/Zmodem\nXmodem/Ymodem/Zmodem
+X/Y/Zmodem\nXmodem/Ymodem/Zmodem
+#--------------------
+&Upload:
+ÉÏ´«(&U):
+#--------------------
+...
+...
+#--------------------
+D&ownload:
+ÏÂÔØ(&O):
+#--------------------
+...
+...
+#--------------------
+&X/Ymodem send packet size
+X/Ymodem ·¢ËÍ°ü´óĞ¡(&X)
+#--------------------
+12&8 bytes
+12&8 ×Ö½Ú
+#--------------------
+102&4 bytes  (Xmodem-1k/Ymodem-1k)
+102&4 ×Ö½Ú  (xmodem 1k/ymodem 1k)
+#--------------------
+Zmodem
+Zmodem
+#--------------------
+Disable &Zmodom
+½ûÓÃ Zmodom(&Z)
+#=========================
+#> ÓïÏµ: "English (United States)" -> "Chinese (GB)"
+#> ¶Ô»°ºĞ: 11458
+#=========================
+#> ×ÖĞÍ: "MS Shell Dlg" 8 -> "MS Shell Dlg" 8
+#--------------------
+FTP/SFTP\nFTP/SFTP
+FTP/SFTP\nFTP/SFTP
+#--------------------
+Operating &system:
+²Ù×÷ÏµÍ³(&S):
+#--------------------
+Time &zone:
+Ê±Çø(&Z):
+#--------------------
+&Upload options
+ÉÏ´«Ñ¡(&U)
+#--------------------
+Filename &conversion:
+ÎÄ¼şÃû³Æ×ª»»(&C):
+#--------------------
+File creation &mask:
+ÎÄ¼ş´´½¨ÑÚÂë(&M):
+#=========================
+#> ÓïÏµ: "English (United States)" -> "Chinese (GB)"
+#> ¶Ô»°ºĞ: 11459
+#=========================
+#> ×ÖĞÍ: "MS Shell Dlg" 8 -> "MS Shell Dlg" 8
+#--------------------
+Connection\nConnection
+Á¬½Ó\nÁ¬½Ó
+#--------------------
+Protocol
+Ğ­Òé
+#--------------------
+&Terminal:
+ÖÕ¶Ë(&T):
+#--------------------
+&File Transfer:
+ÎÄ¼ş´«Êä(&F):
+#--------------------
+D&escription
+ÃèÊö(&E)
+#--------------------
+Enter a description below that may be optionally displayed in the Connect window.
+ÔÚÏÂÃæÊäÈëÒ»¸öÃèÊö£¬Ëü¿ÉÒÔ¿ÉÑ¡ÔñµØ±»ÏÔÊ¾ÔÚÁ¬½Ó´°¿ÚÖĞ.
+#=========================
+#> ÓïÏµ: "English (United States)" -> "Chinese (GB)"
+#> ¶Ô»°ºĞ: 11461
+#=========================
+#> ×ÖĞÍ: "MS Shell Dlg" 8 -> "MS Shell Dlg" 8
+#--------------------
+Firewall Properties
+·À»ğÇ½ÊôĞÔ
+#--------------------
+&Name:
+Ãû³Æ(&N):
+#--------------------
+&Type
+ÀàĞÍ(&T)
+#--------------------
+Para&meters
+²ÎÊı(&M)
+#--------------------
+&Hostname or IP:
+Ö÷»úÃû»ò IP(&H):
+#--------------------
+P&ort:
+¶Ë¿Ú(&O):
+#--------------------
+&Username:
+ÓÃ»§Ãû(&U):
+#--------------------
+&Password:
+ÃÜÂë(&P):
+#--------------------
+OK
+È·¶¨
+#--------------------
+Cancel
+È¡Ïû
+#=========================
+#> ÓïÏµ: "English (United States)" -> "Chinese (GB)"
+#> ¶Ô»°ºĞ: 11462
+#=========================
+#> ×ÖĞÍ: "MS Shell Dlg" 8 -> "MS Shell Dlg" 8
+#--------------------
+Firewall\nFirewall
+·À»ğÇ½\n·À»ğÇ½
+#--------------------
+&Add...
+Ôö¼Ó(&A)...
+#--------------------
+&Edit...
+±à¼­(&E)...
+#--------------------
+&Delete
+É¾³ı(&D)
+#=========================
+#> ÓïÏµ: "English (United States)" -> "Chinese (GB)"
+#> ¶Ô»°ºĞ: 11463
+#=========================
+#> ×ÖĞÍ: "MS Shell Dlg" 8 -> "MS Shell Dlg" 8
+#--------------------
+New Session Wizard
+ĞÂ½¨»á»°Ïòµ¼
+#--------------------
+What type of connection do you want to establish?
+ÄúÏ£Íû½¨Á¢Ê²Ã´ÀàĞÍµÄÁ¬½Ó?
+#--------------------
+P&rotocol:
+Ğ­Òé(&R):
+#--------------------
+Do not use this &wizard when creating sessions
+ÔÚ´´½¨»á»°Ê±²»Ê¹ÓÃ±¾Ïòµ¼(&W)
+#=========================
+#> ÓïÏµ: "English (United States)" -> "Chinese (GB)"
+#> ¶Ô»°ºĞ: 11464
+#=========================
+#> ×ÖĞÍ: "MS Shell Dlg" 8 -> "MS Shell Dlg" 8
+#--------------------
+New Session Wizard
+ĞÂ½¨»á»°Ïòµ¼
+#--------------------
+What type of connection do you want to establish?
+ÄúÏ£Íû½¨Á¢Ê²Ã´ÀàĞÍµÄÁ¬½Ó?
+#--------------------
+SecureCRT® protocol:
+SecureCRT Ğ­Òé:
+#--------------------
+Do not use this &wizard when creating sessions
+ÔÚ´´½¨»á»°Ê±²»Ê¹ÓÃ±¾Ïòµ¼(&W)
+#--------------------
+If you would like to use this session for terminal emulation, select a protocol below.  If you only want to use this session for file transfer, select 'None' below.
+Èç¹ûÄúÏ£ÍûÎªÖÕ¶Ë·ÂÕæÊ¹ÓÃÕâ¸ö»á»°£¬ÔÚÏÂÃæÑ¡ÔñÒ»¸öĞ­Òé¡£Èç¹ûÄúÖ»Ï£ÍûÎªÎÄ¼ş´«ÊäÊ¹ÓÃÕâ¸ö»á»°£¬ÔÚÏÂÃæÑ¡Ôñ¡°ÎŞ¡±
+#=========================
+#> ÓïÏµ: "English (United States)" -> "Chinese (GB)"
+#> ¶Ô»°ºĞ: 11466
+#=========================
+#> ×ÖĞÍ: "MS Shell Dlg" 8 -> "MS Shell Dlg" 8
+#--------------------
+New Session Wizard
+ĞÂ½¨»á»°Ïòµ¼
+#--------------------
+SecureFX® protocol:
+SecureFX Ğ­Òé:
+#=========================
+#> ÓïÏµ: "English (United States)" -> "Chinese (GB)"
+#> ¶Ô»°ºĞ: 11467
+#=========================
+#> ×ÖĞÍ: "MS Shell Dlg" 8 -> "MS Shell Dlg" 8
+#--------------------
+New Session Wizard
+ĞÂ½¨»á»°Ïòµ¼
+#--------------------
+&Description:
+ÃèÊö(&D):
+#--------------------
+The wizard is now ready to create the new session for you.
+Ïòµ¼ÏÖÔÚ×¼±¸ÎªÄú´´½¨ĞÂ»á»°.
+#--------------------
+What name do you want to use to uniquely identify the new session?
+ÄúÏ£ÍûÊ¹ÓÃÊ²Ã´Ãû³ÆÀ´Î¨Ò»µØ±êÊ¶ĞÂ»á»°?
+#=========================
+#> ÓïÏµ: "English (United States)" -> "Chinese (GB)"
+#> ¶Ô»°ºĞ: 11468
+#=========================
+#> ×ÖĞÍ: "MS Shell Dlg" 8 -> "MS Shell Dlg" 8
+#--------------------
+Tabs\nTabs
+±êÇ©\n±êÇ©
+#--------------------
+Click on each tab below to set its status indicator color.
+µ¥»÷ÏÂÃæµÄÃ¿¸ö±êÇ©ÒÔÉèÖÃÆä×´Ì¬Ö¸Ê¾Æ÷ÑÕÉ«.
+#--------------------
+&Show status indicators
+ÏÔÊ¾×´Ì¬Ö¸Ê¾Æ÷(&S)
+#--------------------
+Width of status &indicators:
+×´Ì¬Ö¸Ê¾Æ÷µÄ¿í¶È(&I):
+#--------------------
+pixels
+ÏñËØ
+#--------------------
+Minimum &tab width:
+×îĞ¡±êÇ©¿í¶È(&T):
+#--------------------
+pixels
+ÏñËØ
+#--------------------
+Options
+Ñ¡Ïî
+#--------------------
+&Double-click action:
+Ë«»÷¶¯×÷(&D):
+#--------------------
+Confirm &when closing multiple tabs
+ÔÚ¹Ø±Õ¶à¸ö±êÇ©Ê±È·ÈÏ(&W)
+#--------------------
+&Only show tabs when there are more than one
+ÔÚ¶àÓÚÒ»¸ö±êÇ©Ê±²ÅÏÔÊ¾±êÇ©(&O)
+#--------------------
+CTRL+TAB switches to &most recently used tab
+CTRL+TAB ÇĞ»»µ½×î½üÊ¹ÓÃµÄ±êÇ©Ò³(&M)
+#--------------------
+&Reuse disconnected tabs
+ÖØÓÃÒÑ¶Ï¿ªµÄ±êÇ©Ò³(&R)
+#=========================
+#> ÓïÏµ: "English (United States)" -> "Chinese (GB)"
+#> ¶Ô»°ºĞ: 11471
+#=========================
+#> ×ÖĞÍ: "MS Shell Dlg" 8 -> "MS Shell Dlg" 8
+#--------------------
+AppName
+Ó¦ÓÃÃû
+#--------------------
+In order for integration with SecureFX® to work correctly, a compatible version of SecureFX must be installed.  You can either upgrade SecureFX or continue, with integration temporarily disabled.
+ÎªÁË¼¯³É SecureFX ÒÔÕıÈ·µØ¹¤×÷£¬±ØĞë°²×°SecureFX µÄÒ»¸ö¼æÈİ°æ±¾¡£¿ÉÒÔÉı¼¶ SecureFX »òÕß¼ÌĞø£¬ÁÙÊ±½ûÓÃ¼¯³É.
+#--------------------
+What would you like to do?
+ÄúÏ£Íû×öÊ²Ã´?
+#--------------------
+&Download SecureFX...
+ÏÂÔØSecureFX(&D)...
+#--------------------
+&Continue
+¼ÌĞø(&C)
+#--------------------
+It is strongly recommended that if you continue without upgrading SecureFX, you do not modify any sessions that are configured for file transfer.
+Ç¿ÁÒ½¨Òé£¬Èç¹û¼ÌĞø¶ø²»Éı¼¶ SecureFX£¬²»ÒªĞŞ¸ÄÎªÎÄ¼ş´«ÊäÅäÖÃµÄÈÎºÎ»á»°.
+#--------------------
+E&xit
+ÍË³ö(&X)
+#=========================
+#> ÓïÏµ: "English (United States)" -> "Chinese (GB)"
+#> ¶Ô»°ºĞ: 11473
+#=========================
+#> ×ÖĞÍ: "MS Shell Dlg" 8 -> "MS Shell Dlg" 8
+#--------------------
+Application
+Ó¦ÓÃ³ÌĞò
+#--------------------
+Continue
+¼ÌĞø
+#--------------------
+Cancel
+È¡Ïû
+#--------------------
+You have selected more than %1!d! sessions to open.
+ÒÑÑ¡¶¨Òª´ò¿ª¶àÓÚ %1!d! ¸ö»á»°.
+#--------------------
+Do not display this warning again
+²»ÔÙÏÔÊ¾Õâ¸ö¾¯¸æ
+#=========================
+#> ÓïÏµ: "English (United States)" -> "Chinese (GB)"
+#> ¶Ô»°ºĞ: 11474
+#=========================
+#> ×ÖĞÍ: "MS Shell Dlg" 8 -> "MS Shell Dlg" 8
+#--------------------
+Enter Firewall Password
+ÊäÈë·À»ğÇ½ÃÜÂë
+#--------------------
+The firewall settings require a password.  Please enter a password now.
+·À»ğÇ½ÉèÖÃĞèÒªÒ»¸öÃÜÂë.  ÏÖÔÚÇëÊäÈëÒ»¸öÃÜÂë.
+#--------------------
+&Password:
+ÃÜÂë(&P):
+#--------------------
+&Save password
+±£´æÃÜÂë(&S)
+#--------------------
+OK
+È·¶¨
+#--------------------
+Cancel
+È¡Ïû
+#=========================
+#> ÓïÏµ: "English (United States)" -> "Chinese (GB)"
+#> ¶Ô»°ºĞ: 11475
+#=========================
+#> ×ÖĞÍ: "MS Shell Dlg" 8 -> "MS Shell Dlg" 8
+#--------------------
+Advanced\nAdvanced
+¸ß¼¶\n¸ß¼¶
+#--------------------
+Enable execute escape se&quence
+ÆôÓÃÖ´ĞĞescape sequence(&Q)
+#--------------------
+Disable resi&ze
+½ûÓÃµ÷Õû´óĞ¡(&Z)
+#--------------------
+C&ustom menu and toolbar file
+×Ô¶¨Òå²Ëµ¥ºÍ¹¤¾ßÀ¸ÎÄ¼ş(&U)
+#--------------------
+...
+...
+#--------------------
+C&onnect to multiple sessions sequentially
+Á¬ĞøÁ¬½Ó¶à¸ö»á»°(&O)
+#=========================
+#> ÓïÏµ: "English (United States)" -> "Chinese (GB)"
+#> ¶Ô»°ºĞ: 11476
+#=========================
+#> ×ÖĞÍ: "MS Shell Dlg" 8 -> "MS Shell Dlg" 8
+#--------------------
+Find Session
+²éÕÒ»á»°
+#--------------------
+Look at
+ÕÒµ½ÔÚ
+#--------------------
+&Session name
+»á»°Ãû³Æ(&S)
+#--------------------
+&Hostname
+Ö÷»úÃû(&H)
+#--------------------
+&Description
+ÃèÊö(&D)
+#--------------------
+Folde&r name
+ÎÄ¼ş¼ĞÃû³Æ(&R)
+#--------------------
+Match &case
+Æ¥Åä´óĞ¡Ğ´(&C)
+#--------------------
+OK
+È·¶¨
+#--------------------
+Cancel
+È¡Ïû
+#=========================
+#> ÓïÏµ: "English (United States)" -> "Chinese (GB)"
+#> ¶Ô»°ºĞ: 11515
+#=========================
+#> ×ÖĞÍ: "" 8 -> "" 8
+#--------------------
+Expect
+Ô¤ÆÚ
+#--------------------
+&Expect:
+Ô¤ÆÚ(&E):
+#--------------------
+Send
+·¢ËÍ
+#--------------------
+&Send:
+·¢ËÍ(&S):
+#--------------------
+&Hide
+Òş²Ø(&H)
+#--------------------
+OK
+È·¶¨
+#--------------------
+Cancel
+È¡Ïû
+#=========================
+#> ÓïÏµ: "English (United States)" -> "Chinese (GB)"
+#> ×Ö´®±í: 126
+#=========================
+#--------------------
+Connect
+Á¬½Ó
+#--------------------
+Quick Connect
+¿ìËÙÁ¬½Ó
+#--------------------
+Properties
+ÊôĞÔ
+#--------------------
+Delete
+É¾³ı
+#--------------------
+New Folder
+ĞÂ½¨ÎÄ¼ş¼Ğ
+#--------------------
+New Session
+ĞÂµÄ½¨»á»°
+#--------------------
+Create Shortcut
+´´½¨¿ì½İ·½Ê½
+#--------------------
+Help
+°ïÖú
+#=========================
+#> ÓïÏµ: "English (United States)" -> "Chinese (GB)"
+#> ×Ö´®±í: 132
+#=========================
+#--------------------
+Create a new session.\nNew Session
+´´½¨Ò»¸öĞÂ»á»°.\nĞÂ½¨»á»°
+#--------------------
+Edit the properties of the selected session.\nProperties
+±à¼­Ñ¡¶¨»á»°µÄÊôĞÔ.\nÊôĞÔ
+#--------------------
+Cut the selected session or folder\nCut
+¼ôÇĞÑ¡¶¨µÄ»á»°»òÎÄ¼ş¼Ğ\n¼ôÇĞ
+#--------------------
+Copy the selected session or folder.\nCopy
+¸´ÖÆÑ¡¶¨µÄ»á»°»òÎÄ¼ş¼Ğ\n¸´ÖÆ
+#--------------------
+Paste session or folder\nPaste
+Õ³Ìù»á»°»òÎÄ¼ş¼Ğ\nÕ³Ìù
+#--------------------
+Delete the selected session or folder.\nDelete
+É¾³ıÑ¡¶¨µÄ»á»°»òÎÄ¼ş¼Ğ\nÉ¾³ı
+#--------------------
+Create a new folder.\nNew Folder
+´´½¨Ò»¸öĞÂÎÄ¼ş¼Ğ\nĞÂ½¨ÎÄ¼ş¼Ğ
+#--------------------
+Create a shortcut for the selected session.\nCreate Shortcut
+ÎªÑ¡¶¨µÄ»á»°´´½¨Ò»¸ö¿ì½İ·½Ê½.\n´´½¨¿ì½İ·½Ê½
+#--------------------
+Sort folders and sessions in a user defined order
+ÒÔÒ»¸öÓÃ»§×Ô¶¨ÒåµÄË³ĞòÅÅĞòÎÄ¼ş¼ĞºÍ»á»°
+#=========================
+#> ÓïÏµ: "English (United States)" -> "Chinese (GB)"
+#> ×Ö´®±í: 188
+#=========================
+#--------------------
+Sort folders and sessions alphabetically
+°´×ÖÄ¸Ë³ĞòÅÅĞòÎÄ¼ş¼ĞºÍ»á»°
+#=========================
+#> ÓïÏµ: "English (United States)" -> "Chinese (GB)"
+#> ×Ö´®±í: 2049
+#=========================
+#--------------------
+Display tooltips for session items\nShow Descriptions
+ÏÔÊ¾»á»°ÏîÄ¿µÄ¹¤¾ßÌáÊ¾\nÏÔÊ¾ÃèÊö
+#--------------------
+Open the session in SecureCRT\nConnect Terminal
+ÔÚ SecureCRT ÖĞ´ò¿ª»á»°\nÁ¬½ÓÖÕ¶Ë
+#--------------------
+Open the session in SecureFX\nConnect File Transfer
+ÔÚ SecureFX ÖĞ´ò¿ª»á»°\nÁ¬½ÓÎÄ¼ş´«Êä
+#--------------------
+Open the session in both SecureCRT and SecureFX\nConnect Both
+ÔÚ SecureCRT ºÍ SecureFX ÖĞ´ò¿ª»á»°\nÁ¬½Ó¶şÕß
+#--------------------
+Are you sure you want to leave the Migration Wizard?
+È·¶¨ÒªÀë¿ªÇ¨ÒÆÏòµ¼Âğ?

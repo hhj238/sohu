@@ -1,0 +1,138 @@
+########< ÖĞÎÄ¹¤¾ßÏä >#######
+#> Ô­Ê¼µµ°¸Ãû³Æ: E:\softs\SecureCRT\SSH2.dll
+#> Ô­Ê¼µµ°¸´óĞ¡: 738656
+#############################
+#=========================
+#> ÓïÏµ: "English (United States)" -> "Chinese (GB)"
+#> ¶Ô»°ºĞ: 146
+#=========================
+#> ×ÖĞÍ: "MS Shell Dlg" 8 -> "MS Shell Dlg" 8
+#--------------------
+SFTP Tab\nSFTP Tab Options
+SFTP ±êÇ©\nSFTP ±êÇ©Ñ¡Ïî
+#--------------------
+&Local directory:
+±¾µØÄ¿Â¼(&L):
+#--------------------
+...
+...
+#--------------------
+&Remote directory:
+Ô¶³ÌÄ¿Â¼(&R):
+#=========================
+#> ÓïÏµ: "English (United States)" -> "Chinese (GB)"
+#> ¶Ô»°ºĞ: 220
+#=========================
+#> ×ÖĞÍ: "MS Shell Dlg" 8 -> "MS Shell Dlg" 8
+#--------------------
+&Remote command:
+Ô¶³ÌÃüÁî(&R):
+#--------------------
+Display logon &prompts in terminal window
+ÔÚÖÕ¶Ë´°¿ÚÏÔÊ¾µÇÂ½ÌáÊ¾(&P)
+#=========================
+#> ÓïÏµ: "English (United States)" -> "Chinese (GB)"
+#> ¶Ô»°ºĞ: 1550
+#=========================
+#> ×ÖĞÍ: "MS Shell Dlg" 8 -> "MS Shell Dlg" 8
+#--------------------
+Monitor Server Properties
+¼à¿Ø·şÎñÆ÷ÊôĞÔ
+#--------------------
+Cancel
+È¡Ïû
+#--------------------
+&Username*:
+ÓÃ»§Ãû*(&U):
+#--------------------
+&Password*:
+ÃÜÂë*(&P):
+#--------------------
+&Listen Port*:
+¼àÌı¶Ë¿Ú*(&L):
+#--------------------
+Listen &IP:
+¼àÌıIP(&I):
+#--------------------
+0.0.0.0 listens on all IP addresses
+0.0.0.0 l¼àÌıÔÚÈ«²¿IPµØÖ·ÉÏ
+#--------------------
+Hostkey Fingerprint (MD5):
+Ö÷»úÃÜÔ¿Ö¸ÎÆ (MD5):
+#--------------------
+Hostkey Fingerprint (SHA1):
+Ö÷»úÃÜÔ¿Ö¸ÎÆ (SHA1):
+#--------------------
+* Indicates information needed by the SSH2 client that will be monitoring this session.  The client will also need the hostname or IP adderss for this machine.
+* ±íÊ¾Í¨¹ıSSH2¿Í»§¶Ë¼à¿ØÕâ¸ö»á»°ËùĞèÒªµÄĞÅÏ¢.  ¿Í»§¶ËÒ²±ØĞèÕâ»úÆ÷µÄÖ÷»úÃû»òIPµØÖ·.
+#--------------------
+&Allow remote input
+ÔÊĞíÔ¶³ÌÊäÈë(&A)
+#--------------------
+<MD5 fingerprint>
+<MD5 Ö¸ÎÆ>
+#--------------------
+<SHA1 fingerprint>
+<SHA1 Ö¸ÎÆ>
+#=========================
+#> ÓïÏµ: "English (United States)" -> "Chinese (GB)"
+#> ¶Ô»°ºĞ: 1561
+#=========================
+#> ×ÖĞÍ: "MS Shell Dlg" 8 -> "MS Shell Dlg" 8
+#--------------------
+X11\nX11 Forwarding
+X11\nX11 ×ª·¢
+#--------------------
+Selecting this option causes SecureCRT® to request that the remote machine forward X11 data to the X server running on the local machine.
+Ñ¡ÔñÕâ¸öÑ¡Ïîµ¼ÖÂ SecureCRT ÇëÇóÔ¶³Ì»úÆ÷°Ñ X11 Êı¾İ×ª·¢µ½ÔËĞĞÔÚ±¾µØ»úÆ÷ÉÏµÄ X ·şÎñÆ÷.
+#--------------------
+&Forward X11 packets
+×ª·¢ X11 Êı¾İ°ü(&F)
+#--------------------
+ IMPORTANT: Any changes you make will not take effect until the next\n time this session connects.
+ ÖØÒª£ºÄú×ö³öµÄÈÎºÎ¸ü¸ÄÖ±µ½ÏÂ´ÎÕâ¸ö»á»°Á¬½Ó²Å»áÉúĞ§
+#=========================
+#> ÓïÏµ: "English (United States)" -> "Chinese (GB)"
+#> ¶Ô»°ºĞ: 5022
+#=========================
+#> ×ÖĞÍ: "MS Shell Dlg" 8 -> "MS Shell Dlg" 8
+#--------------------
+New Session Wizard
+ĞÂ½¨»á»°Ïòµ¼
+#--------------------
+P&ort:
+¶Ë¿Ú(&O):
+#--------------------
+&Firewall:
+·À»ğÇ½(&F):
+#--------------------
+&Username:
+ÓÃ»§Ãû(&U):
+#--------------------
+What is the name or IP address of the remote host?
+Ô¶³ÌÖ÷»úµÄÃû³ÆºÍ IP µØÖ·ÊÇÊ²Ã´?
+#--------------------
+The user name can be left blank.
+ÓÃ»§Ãû¿ÉÒÔÁô¿Õ.
+#=========================
+#> ÓïÏµ: "English (United States)" -> "Chinese (GB)"
+#> ×Ö´®±í: 7
+#=========================
+#--------------------
+Windows sockets initialization failed.
+Windows Ì×½Ó×Ö³õÊ¼»¯Ê§°Ü.
+#--------------------
+You must select at least one cipher.
+Äã±ØĞëÑ¡ÔñÖÁÉÙÒ»¸ö¼ÓÃÜ³ÌĞò.
+#--------------------
+You must select at least one MAC.
+Äã±ØĞëÑ¡ÔñÖÁÉÙÒ»¸ö MAC.
+#--------------------
+If no cipher is used, data sent to and from the server will NOT be encrypted.\nIf you are using password authentication, your password will NOT be encrypted.
+Èç¹ûÃ»ÓĞ¼ÓÃÜ³ÌĞò±»Ê¹ÓÃ£¬·¢ËÍµ½ºÍÀ´×Ô·şÎñÆ÷µÄÊı¾İ½«²»±»¼ÓÃÜ¡£\nÈç¹ûÕıÔÚÊ¹ÓÃ¿ÚÁîÑéÖ¤£¬ÄúµÄ¿ÚÁî½«²»±»¼ÓÃÜ.
+#--------------------
+If MAC is set to None, your session will be susceptible to packet insertion attacks.
+Èç¹û MAC ÉèÖÃÎª¡°ÎŞ¡±£¬ÄãµÄ»á»°Êı¾İ°ü½«»á±»ÈİÒ×µØ²åÈë¹¥»÷Êı¾İ.
+#--------------------
+Do you want to save these settings anyway?
+ÎŞÂÛÈçºÎ¶¼Òª±£´æÕâĞ©ÉèÖÃÂğ?

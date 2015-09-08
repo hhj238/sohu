@@ -1,0 +1,614 @@
+########< ÖĞÎÄ¹¤¾ßÏä >#######
+#> Ô­Ê¼µµ°¸Ãû³Æ: E:\softs\SecureCRT\License44U.dll
+#> Ô­Ê¼µµ°¸´óĞ¡: 705888
+#############################
+#=========================
+#> ÓïÏµ: "English (United States)" -> "Chinese (GB)"
+#> ¶Ô»°ºĞ: 145
+#=========================
+#> ×ÖĞÍ: "MS Shell Dlg" 8 -> "MS Shell Dlg" 8
+#--------------------
+AppName
+AppName
+#--------------------
+Your license has expired.
+ÄúµÄĞí¿ÉÒÑ¾­µ½ÆÚ.
+#--------------------
+For information on registering, see ORDER.TXT or visit the VanDyke Software home page:
+¹ØÓÚ×¢²áµÄĞÅÏ¢£¬²é¿´ ORDER.TXT »ò·ÃÎÊ VanDyke Software Ö÷Ò³:
+#--------------------
+http://www.vandyke.com
+http://www.vandyke.com
+#--------------------
+Registered users may enter their license data now.
+ÒÑ×¢²áÓÃ»§ÏÖÔÚ¿ÉÒÔÊäÈëËûÃÇµÄĞí¿ÉÊı¾İ.
+#--------------------
+&Enter License Data...
+ÊäÈëĞí¿ÉÊı¾İ(&E)...
+#--------------------
+&Close
+¹Ø±Õ(&C)
+#=========================
+#> ÓïÏµ: "English (United States)" -> "Chinese (GB)"
+#> ¶Ô»°ºĞ: 169
+#=========================
+#> ×ÖĞÍ: "MS Shell Dlg" 8 -> "MS Shell Dlg" 8
+#--------------------
+License Data Dialog
+Ğí¿ÉÊı¾İ¶Ô»°¿ò
+#--------------------
+&Name:
+Ãû³Æ(&N):
+#--------------------
+&Company:
+¹«Ë¾(&C):
+#--------------------
+&Serial \#:
+ĞòÁĞºÅ(&S)\#:
+#--------------------
+&Key:
+ÃÜÔ¿(&K):
+#--------------------
+&Issue Date:
+·¢ĞĞÈÕÆÚ(&I):
+#--------------------
+&Expiration:
+ÆÚÏŞ(&E):
+#--------------------
+OK
+È·¶¨
+#--------------------
+Cancel
+È¡Ïû
+#=========================
+#> ÓïÏµ: "English (United States)" -> "Chinese (GB)"
+#> ¶Ô»°ºĞ: 170
+#=========================
+#> ×ÖĞÍ: "MS Shell Dlg" 8 -> "MS Shell Dlg" 8
+#--------------------
+AppName
+AppName
+#--------------------
+License Agreement
+Ğí¿ÉĞ­Òé
+#--------------------
+Quit
+Àë¿ª
+#--------------------
+I Agree
+ÎÒÍ¬Òâ
+#--------------------
+Copyright © 1995-2008 VanDyke Software, Inc.
+°æÈ¨ËùÓĞ (C) 1995-2006 VanDyke Software, Inc.
+#--------------------
+Evaluation Period:
+ÆÀ¹ÀÖÜÆÚ:
+#--------------------
+Button1
+Button1
+#--------------------
+%s is available for evaluation without charge for %d days.
+%s ¿ÉÓÃÓÚÆÀ¹À %d Ìì¶ø²»ÊÕ·Ñ.
+#--------------------
+If you wish to continue using %s after the evaluation period, this software must be registered.
+Èç¹ûÏ£ÍûÔÚÆÀ¹ÀÖÜÆÚÖ®ºó¼ÌĞøÊ¹ÓÃ %s£¬±ØĞë×¢²áÕâ¸öÈí¼ş.
+#--------------------
+Thank you for trying %s.
+¸ĞĞ»ÄúÊÔÓÃ %s.
+#--------------------
+Registered versions of %s do not display this notice.
+%s µÄÒÑ×¢²á°æ±¾²»ÏÔÊ¾Õâ¸öÍ¨Öª.
+#--------------------
+I have read and agree to the terms of the license agreement.
+ÎÒÒÑ¾­ÔÄ¶Á²¢Í¬ÒâĞí¿ÉĞ­ÒéµÄÌõ¿î.
+#--------------------
+Order online now at www.vandyke.com.
+ÂíÉÏµ½ www.vandyke.com ÔÚÏß¶©¹º.
+#--------------------
+Version 0.0
+°æ±¾ 0.0
+#=========================
+#> ÓïÏµ: "English (United States)" -> "Chinese (GB)"
+#> ¶Ô»°ºĞ: 171
+#=========================
+#> ×ÖĞÍ: "MS Shell Dlg" 8 -> "MS Shell Dlg" 8
+#--------------------
+License Agreement
+Ğí¿ÉĞ­Òé
+#--------------------
+Close
+¹Ø±Õ
+#=========================
+#> ÓïÏµ: "English (United States)" -> "Chinese (GB)"
+#> ¶Ô»°ºĞ: 189
+#=========================
+#> ×ÖĞÍ: "MS Shell Dlg" 8 -> "MS Shell Dlg" 8
+#--------------------
+Invalid License Data
+ÎŞĞ§µÄĞí¿ÉÊı¾İ
+#--------------------
+OK
+È·¶¨
+#--------------------
+The license data must be entered exactly as shown on your registration letter.
+±ØĞë×¼È·µØ°´ÕÕ×¢²áĞÅº¯ÖĞËùÏÔÊ¾µÄÊäÈëĞí¿ÉÊı¾İ.
+#--------------------
+If you received your registration letter via e-mail, you can use ctrl-v to paste the license data into the dialog.
+Èç¹ûÄúÍ¨¹ıµç×ÓÓÊ¼ş½ÓÊÕµ½ÄúµÄ×¢²áĞÅº¯£¬Äú¿ÉÒÔÓÃ ctrl-v °ÑĞí¿ÉÊı¾İÕ³Ìùµ½¶Ô»°¿òÖĞ.
+#--------------------
+If re-entering the data does not resolve the problem, please go to the URL http://www.vandyke.com/feedback.php.  Please include your serial number and the error message you received.
+Èç¹ûÖØĞÂÊäÈëÊı¾İÎ´½â¾öÎÊÌâ£¬·ÃÎÊ http://www.vandyke.com/feedback.php¡£Çë°üÀ¨ÄúµÄĞòÁĞºÅºÍ½ÓÊÕµ½µÄ´íÎóĞÅÏ¢.
+#=========================
+#> ÓïÏµ: "English (United States)" -> "Chinese (GB)"
+#> ¶Ô»°ºĞ: 2004
+#=========================
+#> ×ÖĞÍ: "MS Shell Dlg" 8 -> "MS Shell Dlg" 8
+#--------------------
+License Wizard
+Ğí¿ÉÏòµ¼
+#--------------------
+Welcome to the License Wizard.
+»¶Ó­Ê¹ÓÃĞí¿ÉÏòµ¼.
+#--------------------
+IDS_LICENSEWIZ1
+IDS_LICENSEWIZ1
+#--------------------
+Enter the data exactly as it appears in the letter.  You can copy (CTRL+C) the data from the registration letter and paste (CTRL+V) it into the appropriate fields.
+×¼È·µÄ°´ÕÕĞÅº¯ÖĞËù³öÏÖµÄÊı¾İÊäÈë¡£¿ÉÒÔ´Ó×¢²áĞÅº¯ÖĞ¸´ÖÆ(CTRL+C)Êı¾İ²¢°ÑËüÕ³Ìù(CTRL+V)µ½ÊÊµ±µÄ×Ö¶ÎÖĞ.
+#--------------------
+You can enter your license data all at once.  Open your registration letter in your e-mail application or a text editor.  Select all of the text in the letter and copy it to the clipboard (CTRL+C).  Click on the "Next" button below to enter the data.
+¿ÉÒÔÁ¢¿ÌÊäÈëĞí¿ÉÊı¾İ¡£ÔÚ e-mail Ó¦ÓÃ³ÌĞò»òÕßÒ»¸öÎÄ±¾±à¼­Æ÷ÖĞ´ò¿ª×¢²áĞÅº¯¡£Ñ¡ÔñĞÅº¯ÖĞµÄÈ«²¿ÎÄ±¾²¢½«Æä¸´ÖÆµ½¼ôÌù°å(CTRL+C)¡£ÔÚÏÂÃæµÄ¡°ÏÂÒ»²½¡±°´Å¥ÉÏµ¥»÷ÒÔÊäÈëÊı¾İ.
+#--------------------
+OR
+»òÕß
+#=========================
+#> ÓïÏµ: "English (United States)" -> "Chinese (GB)"
+#> ¶Ô»°ºĞ: 2005
+#=========================
+#> ×ÖĞÍ: "MS Shell Dlg" 8 -> "MS Shell Dlg" 8
+#--------------------
+License Wizard
+Ğí¿ÉÏòµ¼
+#--------------------
+Enter your Name and Company precisely as they appear in your registration letter.  Copying and pasting from the registration letter into the license fields is the easiest way to do this.
+ÊäÈëÄúµÄ×¢²áĞÅº¯ÖĞµÄÃû×ÖºÍ¹«Ë¾¡£´Ó×¢²áĞÅº¯ÖĞ¸´ÖÆºÍÕ³Ìùµ½Ğí¿É×Ö¶ÎÖĞÊÇ×îÈİÒ×µÄ·½·¨.
+#--------------------
+N&ame:
+Ãû³Æ(&A):
+#--------------------
+&Company:
+¹«Ë¾(&C):
+#--------------------
+When you have entered the requested data, the checksum value has to match the value in the registration letter.  If it does not, compare your entered data to the registration letter.
+ÔÚÒÑ¾­ÊäÈëÁËÇëÇóµÄÊı¾İÊ±£¬Ğ£ÑéºÍÊıÖµ±ØĞëÆ¥ÅäÔÚ×¢²áĞÅº¯ÖĞµÄÊıÖµ¡£Èç¹û²»ÊÇ£¬°ÑÊäÈëµÄÊı¾İºÍ×¢²áĞÅº¯×ö¸ö±È½Ï.
+#--------------------
+Checksum
+Ğ£ÑéºÍ
+#=========================
+#> ÓïÏµ: "English (United States)" -> "Chinese (GB)"
+#> ¶Ô»°ºĞ: 2006
+#=========================
+#> ×ÖĞÍ: "MS Shell Dlg" 8 -> "MS Shell Dlg" 8
+#--------------------
+License Wizard
+Ğí¿ÉÏòµ¼
+#--------------------
+Enter your Serial Number and License Key as they appear in your registration letter.
+ÊäÈëÄúµÄ×¢²áĞÅº¯ÖĞµÄĞòÁĞºÅºÍĞí¿ÉÃÜÔ¿.
+#--------------------
+&Serial Number:
+ĞòÁĞºÅ(&S):
+#--------------------
+&License Key:
+Ğí¿ÉÃÜÔ¿(&L):
+#--------------------
+When you have entered the requested data, the checksum value has to match the value in the registration letter.  If it does not, compare your entered data to the registration letter.
+ÔÚÒÑ¾­ÊäÈëÁËÇëÇóµÄÊı¾İÊ±£¬Ğ£²éºÍÊıÖµ±ØĞëÆ¥ÅäÔÚ×¢²áĞÅº¯ÖĞµÄÊıÖµ¡£Èç¹û²»ÊÇ£¬°ÑÊäÈëµÄÊı¾İºÍ×¢²áĞÅº¯×ö¸ö±È½Ï.
+#--------------------
+Checksum
+Ğ£ÑéºÍ
+#--------------------
+0000
+0000
+#--------------------
+00
+00
+#=========================
+#> ÓïÏµ: "English (United States)" -> "Chinese (GB)"
+#> ¶Ô»°ºĞ: 2008
+#=========================
+#> ×ÖĞÍ: "MS Shell Dlg" 8 -> "MS Shell Dlg" 8
+#--------------------
+License Wizard
+Ğí¿ÉÏòµ¼
+#--------------------
+Enter your Issue Date and Features as they appear in your registration letter.
+ÊäÈëÄúµÄ×¢²áĞÅº¯ÖĞµÄ·¢ĞĞÈÕÆÚºÍÌØÕ÷Âë.
+#--------------------
+&Issue Date:
+·¢ĞĞÈÕÆÚ(&I):
+#--------------------
+When you have entered the requested data, the checksum value has to match the value in the registration letter.  If it does not, compare your entered data to the registration letter.
+ÔÚÒÑ¾­ÊäÈëÁËÇëÇóµÄÊı¾İÊ±£¬Ğ£²éºÍÊıÖµ±ØĞëÆ¥ÅäÔÚ×¢²áĞÅº¯ÖĞµÄÊıÖµ¡£Èç¹û²»ÊÇ£¬°ÑÊäÈëµÄÊı¾İºÍ×¢²áĞÅº¯×ö¸ö±È½Ï.
+#--------------------
+Checksum
+Ğ£ÑéºÍ
+#--------------------
+0000
+0000
+#--------------------
+&Features: (leave blank if license has no Features field)
+ÌØÕ÷Âë: (Èç¹ûĞí¿ÉÃ»ÓĞÌØÕ÷À¸Áô¿Õ)(&F)
+#=========================
+#> ÓïÏµ: "English (United States)" -> "Chinese (GB)"
+#> ¶Ô»°ºĞ: 2010
+#=========================
+#> ×ÖĞÍ: "MS Shell Dlg" 8 -> "MS Shell Dlg" 8
+#--------------------
+License Wizard
+Ğí¿ÉÏòµ¼
+#--------------------
+The license information shown below has been accepted.
+ÃæÏÔÊ¾µÄĞí¿ÉĞÅÏ¢ÒÑ¾­±»½ÓÊÜ.
+#--------------------
+Static
+static
+#--------------------
+Static
+static
+#--------------------
+Static
+static
+#--------------------
+Static
+static
+#--------------------
+Click on Finish to save the license data.
+µ¥»÷¡°Íê³É¡±ÒÔ±£´æĞí¿ÉÊı¾İ.
+#--------------------
+Static
+Static
+#=========================
+#> ÓïÏµ: "English (United States)" -> "Chinese (GB)"
+#> ¶Ô»°ºĞ: 2013
+#=========================
+#> ×ÖĞÍ: "MS Shell Dlg" 8 -> "MS Shell Dlg" 8
+#--------------------
+License Wizard
+Ğí¿ÉÏòµ¼
+#--------------------
+The license wizard did not complete successfully.  Possible errors include:
+Ğí¿ÉÏòµ¼Î´³É¹¦Íê³É¡£¿ÉÄÜµÄ´íÎó°üÀ¨:
+#--------------------
+-
+-
+#--------------------
+IDS_LICENSEWIZ_WRONGVER
+IDS_LICENSEWIZ_WRONGVER
+#--------------------
+-
+-
+#--------------------
+The checksum values do not agree with the checksum values in the registration letter.  This is usually caused by a typo or misspelling.
+¼ì²éºÍÖµÓëÔÚ×¢²áĞÅº¯ÖĞµÄ¼ì²éºÍÖµ²»Ò»ÖÂ¡£ÕâÍ¨³£ÊÇÓÉÅÅ×Ö»òÕßÆ´Ğ´´íÎóÒıÆğµÄ.
+#--------------------
+Click on Back to verify the information you entered.
+µ¥»÷¡°ÉÏÒ»²½¡±ÒÔĞ£ÑéÄúÊäÈëµÄĞÅÏ¢.
+#=========================
+#> ÓïÏµ: "English (United States)" -> "Chinese (GB)"
+#> ¶Ô»°ºĞ: 2016
+#=========================
+#> ×ÖĞÍ: "MS Shell Dlg" 8 -> "MS Shell Dlg" 8
+#--------------------
+License Wizard
+Ğí¿ÉÏòµ¼
+#--------------------
+IDS_LICENSEWIZ_ERR1
+IDS_LICENSEWIZ_ERR1
+#--------------------
+IDS_LICENSEWIZ_ERR2
+IDS_LICENSEWIZ_ERR2
+#=========================
+#> ÓïÏµ: "English (United States)" -> "Chinese (GB)"
+#> ¶Ô»°ºĞ: 2017
+#=========================
+#> ×ÖĞÍ: "MS Shell Dlg" 8 -> "MS Shell Dlg" 8
+#--------------------
+License Wizard
+Ğí¿ÉÏòµ¼
+#--------------------
+The format of the following information is not correct.
+ÏÂÁĞĞÅÏ¢µÄ¸ñÊ½²»ÕıÈ·.
+#--------------------
+<Incorrect field \#1>
+<²»ÕıÈ·µÄÀ¸ \#1>
+#--------------------
+<Incorrect field \#2>
+<²»ÕıÈ·µÄÀ¸ \#2>
+#--------------------
+Click on Back to verify the information you entered.  It may be helpful to make sure that the number of characters that have been entered is the same number as in the registration letter.
+µ¥»÷¡°ÉÏÒ»²½¡±ÒÔĞ£ÑéÄúÊäÈëµÄĞÅÏ¢¡£Õâ¿ÉÄÜ¶ÔÈ·¶¨ÒÑ¾­ÊäÈëµÄ×Ö·ûÊıÁ¿ºÍÔÚ×¢²áĞÅº¯ÖĞµÄÊıÁ¿ÏàÍ¬ÓĞ°ïÖú.
+#--------------------
+It is highly recommended that you copy (CTRL-C) the information from the registration letter and paste (CTRL-V) it into the appropriate fields rather than enter it manually.
+Ç¿ÁÒ½¨ÒéÄú´Ó×¢²áĞÅº¯ÖĞ¸´ÖÆ(CTRL-C)ĞÅÏ¢²¢½«ÆäÕ³Ìù(CTRL-V)µ½ÊÊµ±µÄ×Ö¶ÎÖĞ£¬Ê¤ÓÚÊÖ¹¤ÊäÈë.
+#=========================
+#> ÓïÏµ: "English (United States)" -> "Chinese (GB)"
+#> ¶Ô»°ºĞ: 2018
+#=========================
+#> ×ÖĞÍ: "MS Shell Dlg" 8 -> "MS Shell Dlg" 8
+#--------------------
+License Wizard
+Ğí¿ÉÏòµ¼
+#--------------------
+Enter the Expiration date as it appears in your registration letter.
+ÊäÈë×¢²áĞÅº¯ÖĞµÄµ½ÆÚÈÕÆÚ.
+#--------------------
+&Expiration:
+ÆÚÏŞ(&E):
+#--------------------
+Checksum
+Ğ£ÑéºÍ
+#--------------------
+0000
+0000
+#=========================
+#> ÓïÏµ: "English (United States)" -> "Chinese (GB)"
+#> ¶Ô»°ºĞ: 2020
+#=========================
+#> ×ÖĞÍ: "MS Shell Dlg" 8 -> "MS Shell Dlg" 8
+#--------------------
+License Wizard
+Ğí¿ÉÏòµ¼
+#--------------------
+IDS_INVALID_LICENSE\nIDS_INVALID_ISSUE_DATE_<product>
+IDS_INVALID_LICENSE\nIDS_INVALID_ISSUE_DATE_<product>
+#--------------------
+IDS_UPGRADE_PATH
+IDS_UPGRADE_PATH
+#--------------------
+http://www.vandyke.com
+http://www.vandyke.com
+#--------------------
+http://www.vandyke.com/feedback.php
+http://www.vandyke.com/feedback.php
+#=========================
+#> ÓïÏµ: "English (United States)" -> "Chinese (GB)"
+#> ¶Ô»°ºĞ: 2021
+#=========================
+#> ×ÖĞÍ: "MS Shell Dlg" 8 -> "MS Shell Dlg" 8
+#--------------------
+License Wizard
+Ğí¿ÉÏòµ¼
+#--------------------
+The license data entered is not valid for AbsoluteFTP® version 2.0.
+ÊäÈëµÄĞí¿ÉÊı¾İ¶ÔÓÚ AbsoluteFTP °æ±¾ 2.0 ÎŞĞ§
+#--------------------
+New license keys were e-mailed to registered users of AbsoluteFTP who purchased licenses after June 1, 2000. If you are one of these users and have not received a new license key, you may request one at no charge by sending e-mail to:
+ĞÂµÄĞí¿ÉÃÜÔ¿ÒÑ¾­ Email ¸øÔÚ 2000 Äê 6 ÔÂ 1 ÈÕÖ®ºó¹ºÂò AbsoluteFTP µÄÒÑ×¢²áÓÃ»§¡£Èç¹ûÄúÊÇÕâĞ©ÓÃ»§Ö®Ò»£¬²¢ÇÒÉĞÎ´½ÓÊÕµ½Ò»¸öĞÂµÄĞí¿ÉÃÜÔ¿£¬Äú¿ÉÒÔÍ¨¹ı·¢ËÍµç×ÓÓÊ¼şÉêÇëÒ»¸ö²»ÊÕ·ÑµÄ:
+#--------------------
+http://www.vandyke.com/feedback.php
+http://www.vandyke.com/feedback.php
+#--------------------
+You can continue to evaluate this version of AbsoluteFTP.  Information on upgrading AbsoluteFTP may be found in the Order section of the VanDyke web site.
+Äú¿ÉÒÔ¼ÌĞøÆÀ¹À AbsoluteFTP µÄÕâ¸ö°æ±¾¡£¹ØÓÚ¸üĞÂ AbsoluteFTP µÄĞÅÏ¢¿ÉÒÔÔÚ VanDyke ÍøÕ¾µÄ Order ÇøÓòÖĞÕÒµ½.
+#--------------------
+http://www.vandyke.com
+http://www.vandyke.com
+#=========================
+#> ÓïÏµ: "English (United States)" -> "Chinese (GB)"
+#> ¶Ô»°ºĞ: 2022
+#=========================
+#> ×ÖĞÍ: "MS Shell Dlg" 8 -> "MS Shell Dlg" 8
+#--------------------
+AppName
+AppName
+#--------------------
+&Do not show me this dialog again
+²»ÔÙÏÔÊ¾Õâ¸ö¶Ô»°¿ò(&D)
+#--------------------
+&Close
+¹Ø±Õ(&C)
+#--------------------
+If you have any questions regarding %s, please click the button below.  A VanDyke representative will contact you via e-mail within one business day.
+Èç¹ûÄúÓĞ¹ØÓÚ %s µÄÈÎºÎÎÊÌâ£¬ÇëÔÚÏÂÃæµÄÁ¬½ÓÉÏµ¥»÷ÒÔµÃµ½Ò»¸öÁªÏµ±íµ¥¡£VanDyke ´ú±í½«ÔÚÒ»¸ö¹¤×÷ÈÕÄÚÍ¨¹ı e-mail ÁªÏµÄú.
+#--------------------
+Ask a question.
+Ñ¯ÎÊÒ»¸öÎÊÌâ.
+#=========================
+#> ÓïÏµ: "English (United States)" -> "Chinese (GB)"
+#> ¶Ô»°ºĞ: 2023
+#=========================
+#> ×ÖĞÍ: "MS Shell Dlg" 8 -> "MS Shell Dlg" 8
+#--------------------
+AppName
+AppName
+#--------------------
+You have %d day(s) left in your 30-day evaluation period. If you need more time to evaluate %s, click below for a contact form.  After completing the form, an automated reply with an extended evaluation license will be sent to the e-mail address provided.
+ÔÚÄúµÄ 30 ÌìÆÀ¹ÀÖÜÆÚÖĞ£¬ÄúÊ£ÏÂ %d Ìì¡£Èç¹ûÄúĞèÒª¸ü¶àÊ±¼äÀ´ÆÀ¹À %s£¬ÔÚÏÂÃæµ¥»÷µÃµ½Ò»¸öÁªÏµ±íµ¥¡£ÔÚÍê³É±íµ¥Ö®ºó£¬Ò»¸ö´øÓĞÑÓ³¤ÆÀ¹ÀĞí¿ÉµÄ×Ô¶¯»Ø¸´½«±»·¢ËÍµ½Ìá¹©µÄµç×ÓÓÊ¼şµØÖ·.
+#--------------------
+&Extend My Evaluation...
+ÑÓ³¤ÎÒµÄÆÀ¹À(&E)...
+#--------------------
+&Close
+¹Ø±Õ(&C)
+#--------------------
+&Do not display this dialog again.
+²»ÔÙÏÔÊ¾Õâ¸ö¶Ô»°¿ò.(&D)
+#=========================
+#> ÓïÏµ: "English (United States)" -> "Chinese (GB)"
+#> ¶Ô»°ºĞ: 2024
+#=========================
+#> ×ÖĞÍ: "MS Shell Dlg" 8 -> "MS Shell Dlg" 8
+#--------------------
+License Wizard
+Ğí¿ÉÏòµ¼
+#--------------------
+Enter the Expiration date as it appears in your registration letter.
+ÊäÈë×¢²áĞÅº¯ÖĞµÄµ½ÆÚÈÕÆÚ.
+#--------------------
+Checksum
+Ğ£ÑéºÍ
+#--------------------
+&Issue Date:
+·¢ĞĞÈÕÆÚ(&I):
+#--------------------
+0000
+0000
+#--------------------
+&Expiration:
+ÆÚÏŞ(&E):
+#--------------------
+0000
+0000
+#--------------------
+When you have entered the requested data, the checksum value has to match the value in the registration letter.  If it does not, compare your entered data to the registration letter.
+ÔÚÒÑ¾­ÊäÈëÁËÇëÇóµÄÊı¾İÊ±£¬¼ì²éºÍÊıÖµ±ØĞëÆ¥ÅäÔÚ×¢²áĞÅº¯ÖĞµÄÊıÖµ¡£Èç¹û²»ÊÇ£¬°ÑÊäÈëµÄÊı¾İºÍ×¢²áĞÅº¯×ö¸ö±È½Ï.
+#=========================
+#> ÓïÏµ: "English (United States)" -> "Chinese (GB)"
+#> ¶Ô»°ºĞ: 2025
+#=========================
+#> ×ÖĞÍ: "MS Shell Dlg" 8 -> "MS Shell Dlg" 8
+#--------------------
+License Wizard
+Ğí¿ÉÏòµ¼
+#--------------------
+Enter the e-mail address and license key that was sent to you to\nextend your evaluation period.
+ÊäÈë·¢ËÍ¸øÄúÑÓ³¤ÄúµÄÆÀ¹ÀÖÜÆÚµÄµç×ÓÓÊ¼şµØÖ·ºÍĞí¿ÉÃÜÔ¿.
+#--------------------
+Checksum
+Ğ£ÑéºÍ
+#--------------------
+&E-mail Address
+µç×ÓÓÊ¼şµØÖ·(&E)
+#--------------------
+0000
+0000
+#--------------------
+&License Key:
+Ğí¿ÉÃÜÔ¿(&L):
+#--------------------
+0000
+0000
+#--------------------
+When you have entered the requested data, the checksum value has to match the value in the registration letter.  If it does not, compare your entered data to the e-mail you recieved.
+ÔÚÒÑ¾­ÊäÈëÁËÇëÇóµÄÊı¾İÊ±£¬¼ì²éºÍÊıÖµ±ØĞëÆ¥ÅäÔÚ×¢²áĞÅº¯ÖĞµÄÊıÖµ¡£Èç¹û²»ÊÇ£¬°ÑÊäÈëµÄÊı¾İºÍÄú½ÓÊÕµ½µÄµç×ÓÓÊ¼ş×ö¸ö±È½Ï.
+#=========================
+#> ÓïÏµ: "English (United States)" -> "Chinese (GB)"
+#> ¶Ô»°ºĞ: 2026
+#=========================
+#> ×ÖĞÍ: "MS Shell Dlg" 8 -> "MS Shell Dlg" 8
+#--------------------
+License Wizard
+Ğí¿ÉÏòµ¼
+#--------------------
+The information shown below has been accepted.
+ÏÂÃæÏÔÊ¾µÄĞÅÏ¢ÒÑ¾­±»½ÓÊÜ.
+#--------------------
+Static
+static
+#--------------------
+Static
+static
+#--------------------
+Click on Finish to complete your evaluation period extension.
+µ¥»÷¡°Íê³É¡±ÒÔÍê³ÉÄúµÄÆÀ¹ÀÖÜÆÚÑÓ³¤.
+#=========================
+#> ÓïÏµ: "English (United States)" -> "Chinese (GB)"
+#> ¶Ô»°ºĞ: 2027
+#=========================
+#> ×ÖĞÍ: "MS Shell Dlg" 8 -> "MS Shell Dlg" 8
+#--------------------
+License Wizard
+Ğí¿ÉÏòµ¼
+#--------------------
+The text on the clipboard appeared to contain license data, but it was not valid.\n\nUse the Back button to retrieve data from the clipboard again.\n\nUse the Next button to enter data manually.
+¼ôÌù°åÉÏµÄÎÄ±¾ËÆºõ°üÀ¨Ğí¿ÉÊı¾İ£¬µ«ÊÇÎŞĞ§¡£\n\nÊ¹ÓÃ¡°ÉÏÒ»²½¡±°´Å¥´Ó¼ôÌù°åÔÙ´ÎÖØĞÂ¼ìË÷Êı¾İ¡£\n\nÊ¹ÓÃ¡°ÏÂÒ»²½¡±°´Å¥ÒÔÊÖ¹¤ÊäÈëÊı¾İ.
+#=========================
+#> ÓïÏµ: "English (United States)" -> "Chinese (GB)"
+#> ×Ö´®±í: 1
+#=========================
+#--------------------
+CRT
+CRT
+#--------------------
+SecureCRT
+SecureCRT
+#--------------------
+AbsoluteFTP
+AbsoluteFTP
+#--------------------
+SecureFX
+SecureFX
+#--------------------
+This wizard will step you through the license entry process for %s.  You will need to have the license registration letter that you received from VanDyke Software readily available.
+±¾Ïòµ¼½«Ê¹Äú°´²½ÖèÍ¨¹ı %s µÄĞí¿ÉÊäÈë¹ı³Ì¡£ÄúĞèÒªÓĞ´Ó VanDyke Software ½ÓÊÕµ½µÄĞí¿É×¢²áĞÅ¿ÉÓÃ.
+#--------------------
+The serial number entered is for %s.
+ÊäÈëµÄĞòÁĞºÅÊÊÓÃÓÚ %s.
+#--------------------
+Click on Back to enter the serial number for %s.
+µ¥»÷¡°ÉÏÒ»²½¡±ÒÔÊäÈë %s µÄĞòÁĞºÅ.
+#--------------------
+a different product
+Ò»¸ö²»Í¬²úÆ·
+#--------------------
+Serial Number
+ĞòÁĞºÅ
+#--------------------
+License Key
+Ğí¿ÉÃÜÔ¿
+#--------------------
+Are you sure you want to leave the License Wizard?
+ÄúÈ·¶¨ÒªÀë¿ªĞí¿ÉÏòµ¼Âğ?
+#--------------------
+License Wizard
+Ğí¿ÉÏòµ¼
+#--------------------
+The license is for a different version of %s.
+Ğí¿ÉÊÊºÏÓÚ %s µÄÒ»¸ö²»Í¬°æ±¾.
+#--------------------
+Expiration
+ÆÚÏŞ
+#--------------------
+Issue Date
+·¢ĞĞÈÕÆÚ
+#=========================
+#> ÓïÏµ: "English (United States)" -> "Chinese (GB)"
+#> ×Ö´®±í: 2
+#=========================
+#--------------------
+VShell
+VShell
+#--------------------
+This evaluation copy of %s has expired.
+%s µÄÕâ¸öÆÀ¹À¸±±¾ÒÑ¾­µ½ÆÚ.
+#--------------------
+It is valid for %s releases prior to version %s.
+Ëü¶ÔÓÚ %s ·¢ĞĞ°æÓĞĞ§£¬ÓÅÓÚ°æ±¾ %s.
+#--------------------
+You can continue to evaluate this version of %s.  Information on upgrading %s may be found in the Order section of the VanDyke Software Web site.
+Äú¿ÉÒÔ¼ÌĞøÆÀ¹À %s µÄÕâ¸ö°æ±¾¡£¹ØÓÚÉı¼¶ %s µÄĞÅÏ¢¿ÉÒÔÔÚ VanDyke Software ÍøÕ¾µÄ Order ÇøÓòÖĞÕÒµ½.
+#--------------------
+The license data entered is not valid for %s version %s.
+ÊäÈëµÄĞí¿ÉÊı¾İ¶ÔÓÚ %s °æ±¾ %s ÎŞĞ§.
+#--------------------
+The license may be valid for %s releases prior to version %s, depending on the date purchased.
+Ğí¿É¿ÉÄÜ¶ÔÓÚ %s ·¢ĞĞ°æÓĞĞ§£¬ÓÅÓÚ°æ±¾ %s£¬È¡¾öÓÚ¹ºÂòÈÕÆÚ.
+#--------------------
+SecureCRT - SSH2 only
+SecureCRT - ½ö SSH2
+#--------------------
+Entunnel
+ËíµÀ
+#--------------------
+This license is eligible for a free upgrade to %1 %2. \nThe license contact was sent new license keys for version \n%2.  If they are not available, please go to the URL \nhttp://www.vandyke.com/feedback.php to request a copy of \nthe new keys.
+Ğí¿É·ûºÏÃâ·ÑÉı¼¶µ½ %1 %2¡£ \nĞí¿ÉÁªÏµÈË·¢ËÍÁËÊÊÓÃÓÚ°æ±¾ %2 µÄĞÂĞí¿ÉÃÜÔ¿¡£ \nÈç¹ûĞÂĞí¿ÉÃÜÔ¿²»¿ÉÓÃ£¬Çëµ½http://www.vandyke.com/feedback.php\nÉêÇëĞÂÃÜÔ¿µÄÒ»¸ö¸±±¾.
+#--------------------
+All users can evaluate %1 %2 for 30 days free of \ncharge.  In order to continue using %1 %2, you will need \nto upgrade this license.  For more information on upgrade \neligibility and prices, please visit our web site:\n\nhttp://www.vandyke.com/pricing/corporate/upgrades
+ËùÓĞÓÃ»§¶¼¿ÉÒÔÃâ·ÑÆÀ¹À %1 %2 30 Ìì¡£ \nÎªÁË¼ÌĞøÊ¹ÓÃ %1 %2£¬½«ĞèÒªÉı¼¶Õâ¸öĞí¿É¡£ \n¹ØÓÚÉı¼¶×Ê¸ñºÍ¼Û¸ñµÄ¸ü¶àĞÅÏ¢£¬Çë·ÃÎÊÎÒÃÇµÄÍøÕ¾£º \n\nhttp://www.vandyke.com/pricing/corporate/upgrades
+#--------------------
+Email Address
+µç×ÓÓÊ¼şµØÖ·
+#--------------------
+The session cannot be connected at this time because this evaluation copy of %s has expired.
+ÓÉÓÚ%sµÄÆÀ¹À¸±±¾µ½ÆÚ£¬»á»°´ËÊ±ÎŞ·¨Á¬½Ó.

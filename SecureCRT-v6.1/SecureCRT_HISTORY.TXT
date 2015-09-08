@@ -1,0 +1,292 @@
+
+          SecureCRT(R) 6.1.2 (Official) -- November 6, 2008
+
+            Copyright (C) 1995-2008 VanDyke Software, Inc.
+                        All rights reserved.
+
+
+This file contains a SecureCRT product history.  It includes lists 
+of new features, changes, and bug fixes sorted by release.  For a 
+product description, installation notes, registration information,
+and contact information, please refer to Readme.txt (downloaded 
+with this installation).
+
+
+Changes in SecureCRT 6.1.2 (Official) -- November 6, 2008
+---------------------------------------------------------
+
+Changes:
+
+  - SSH2: In the session .INI file, if the GEX Preferred Size was
+    set to 2046, it will be changed to 2048 in order to be compatible
+    with Cisco IOS 12.4 or later.
+
+Bug fixes:
+
+  - If a script was specified on the command line, SecureCRT was
+    in a hung state after the script executed.
+  - With ANSI color enabled, if a color escape sequence was
+    received, only the portion of the row that contained characters
+    was correctly displayed.
+  - SSH2: In an SFTP tab, if the connection was lost and a put
+    command was issued, SecureCRT crashed.
+
+
+Changes in SecureCRT 6.1.1 (Official) -- October 2, 2008
+--------------------------------------------------------
+
+Bug fixes:
+
+  - If the auto-reconnect option was set for a session and the
+    connection was lost, an error dialog was displayed.  The 5.5
+    behavior of not displaying a dialog was restored.
+  - If the session option "Display logon prompts in terminal window"
+    was not set and a logon script was specified, the script was
+    started before the connection was established.  The 6.0 behavior
+    of starting the script after the connection is established was
+    restored.
+  - Logon scripts were run when the administrative option to disallow
+    scripts from being run in SecureCRT was set.
+  - If the global option "Show confirm disconnect dialog" was set and
+    multiple sessions were open in different windows, exiting the
+    Activator could cause SecureCRT to crash.
+  - SecureCRT crashed when cancelling out of the select log file
+    dialog if the session tab no longer existed.
+  - In the Connect dialog, doing a Find Next after deleting a session
+    that had been found using Find caused SecureCRT to crash.
+  - In the Global Options dialog, on the Firewall page, double-
+    clicking the empty space below the firewall list or pressing the
+    DEL key when no firewall was selected caused SecureCRT to crash.
+  - After answering "No" to the confirm disconnect dialog, SecureCRT
+    became unresponsive.
+  - Under certain circumstances, if there were multiple SecureCRT
+    windows and the menu bar was toggled, SecureCRT could become
+    unresponsive.
+  - After selecting text in the scrollback buffer using a triple- 
+    click, it was no longer possible to select text in the scrollback
+    buffer.
+  - If the SecureCRT window was maximized after scrolling up, garbage
+    was displayed in the session window.
+  - If an "exit" command was sent to a session in a script and then
+    another connection was immediately attempted, it could cause the
+    script to hang.
+  - If a session was connected using the Session.Connect(/s <session>)
+    scripting method, the initial position specified in the session
+    options was not honored.
+  - SSH2: The TCP connection associated with a dynamic port forward
+    could get stuck in a CLOSE_WAIT state after the session was
+    disconnected.
+  - SSH2: Under certain circumstances, dynamic port forwarding was not
+    started when a session was connected.
+  - SSH1/SSH2: If the session option "Start log upon connect" was set
+    and no log file was specified, when connecting to the session,
+    after entering the password, focus went to the session window
+    instead of the Select Log File dialog.
+  - Global Secure Shell configuration information was not being
+    migrated.
+  - If two sessions had the same name, hostname, and username, they
+    were combined during migration, but only the terminal protocol
+    was set.
+
+
+Changes in SecureCRT 6.1 (Official) -- August 21, 2008
+------------------------------------------------------
+
+Bug fixes:
+
+  - Under certain circumstances, SecureCRT could not write log files
+    to a mapped drive.
+  - Under certain circumstances, when Quick Connect was used to make
+    multiple connections, the authentication dialog was associated 
+    with the initial session window.
+  - If nothing had previously been typed into the session window,
+    pressing ALT+<numeral> sent the number to the session rather than
+    switching to the specified tab.
+  - When Windows was configured to use large fonts (120 DPI), some 
+    text in the Session Options dialog did not fit in the dialog.
+  - If a URL that spanned multiple lines had extra spaces at the end
+    of a line, the extra spaces were not removed when the URL was
+    opened.
+  - Serial: After a serial session was disconnected, the tab connec-
+    tion status indicator was not updated to reflect that the session
+    had been disconnected.
+
+
+Changes in SecureCRT 6.1 (Beta 4) -- July 31, 2008
+--------------------------------------------------
+
+Changes:
+
+  - SSH2: Because of a limitation in some recent versions of Cisco's
+    IOS which resulted in SecureCRT not being able to connect, the
+    diffie-hellman-group-exchange key exchange algorithm was modified
+    to send a different maximum size for the modulus.
+
+Bug fixes:
+
+  - SecureCRT crashed when running a script that attempted to connect
+    to multiple sessions.
+  - Calling Config.GetOption("Password") in a script caused SecureCRT
+    to crash.
+  - After calling the script Session object method Connect, execution
+    of the script continued regardless of whether or not
+    authentication had completed.
+  - When the global option "CTRL+TAB switches to most recently used
+    tab" was set, pressing CTRL+TAB cycled between all the tabs
+    rather than going to the most recently used tab.
+  - Under certain circumstances, launching SecureCRT caused
+    MFC80U.dll errors to be reported in the Windows Event Viewer.
+  - Serial: After sending CTRL+C to a serial device, SecureCRT hung.
+
+
+Changes in SecureCRT 6.1 (Beta 3) -- July 17, 2008
+--------------------------------------------------
+
+Bug fixes:
+
+  - Under Windows 2000, a KERNEL32.dll error was reported when
+    SecureCRT started.
+  - SecureCRT crashed when the Script menu option was selected if
+    the Recent Script list contained at least six items.
+  - Leading spaces were removed when copied from the terminal
+    window to the clipboard.
+  - When a second session was started in a new maximized window,
+    the logon prompt was displayed part way down the screen.
+  - Under certain circumstances, if SecureCRT was started and then
+    maximized, the logon prompt was not visible.
+  - When custom log data was specified, long lines were wrapped in
+    the log file.
+  - If a session was reconnected while minimized and then it was
+    restored, the size would be different.
+  - The Activator used a different configuration folder than
+    SecureCRT when SecureCRT specified the /F command-line option.
+  - When the custom menu (.MNU) option MENU_TAB_LIST1 was used, the
+    menu did not display the list of tabbed sessions.
+  - RLogin: SecureCRT could crash when an RLogin session was
+    disconnected.
+  - TAPI: SecureCRT crashed when the remote host was VMS and the
+    session was disconnected by logging off the host machine.
+
+
+Changes in SecureCRT 6.1 (Beta 2) -- July 2, 2008
+-------------------------------------------------
+
+Bug fixes:
+
+  - If SecureCRT was running during an upgrade install, the installer
+    continued to report that a file was in use after SecureCRT was
+    closed and Retry was selected.
+  - The installer did not handle the answer file option
+    INSTALLATION_PROFILE.
+  - SSH1: If a command that resulted in a lot of output was run,
+    pressing CTRL+C could cause the session to become unresponsive.
+
+
+Changes in SecureCRT 6.1 (Beta 1) -- June 19, 2008
+--------------------------------------------------
+
+New features:
+
+  - Added the ability to search sessions and folders in the Connect
+    dialog, which supports searching for a session name, hostname,
+    folder name, or a keyword in the description.
+  - Added items to the File menu to reconnect all disconnected
+    sessions and disconnect all connected sessions.
+  - Added support for an unlimited number of automated logon
+    Expect/Send sequences and the ability to delete and reorder
+    the sequences.
+  - Several example VB scripts are installed, which demonstrate how
+    to use SecureCRT's scripting support.
+  - Added scripting support for sending special keys such as
+    function keys, control keys, and other special characters,
+    which makes it easier to write scripts that are protocol
+    and emulation independent.
+  - Added Clipboard scripting functions provide access to the
+    current selected text and also to available Clipboard data,
+    which allows setting up actions such as running a script
+    that uses the contents of the Clipboard to send a command
+    to the session, or selecting text in the session and running
+    a script which launches a web browser to google that text.
+  - Added scripting support for accessing session options, which
+    makes it possible to do operations such as configuring a session
+    before connecting and converting session information stored in a
+    file to saved sessions.
+  - Added error handling methods to the Application scripting
+    object.  The new methods GetLastError and GetLastErrorMessage
+    provide flexibility to how errors are handled in scripts.
+  - The script method Connect can be called without arguments in
+    order to reconnect a session.
+  - SSH1/SSH2: Added an option for authentication credentials to be
+    entered in the terminal window, which allows Secure Shell logons
+    to be scripted using the Expect/Send strings or "Logon script"
+    option found in the Session Options dialog.
+  - SSH1/SSH2: The username and password can be saved when using
+    keyboard-interactive authentication, streamlining the logon
+    process.
+  - SSH1/SSH2: Added a session option to execute a remote command
+    after connecting.
+  - SFTP: Added a "view" command which downloads the specified file
+    and opens it in the default editor or appropriate application.
+  - SFTP: If the remote server is VShell for Windows 3.5 or later,
+    there is a "su" command in the SFTP tab that allows you to
+    become a different user.
+
+Changes:
+
+  - When the "Single Instance" and "Launch New Windows in a
+    Separate Process" options are set, sessions cannot be opened in
+    a separate window.
+  - The serial port can now be changed in the Default session.
+  - Added read access to the crt.FileTransfer.ZmodemUploadAscii
+    property.
+  - SSH2: The option "Enable OpenSSH agent forwarding" can be
+    specified on a per-session basis.
+
+Bug fixes:
+
+  - When the session option "Retain size and font" was set, if
+    the window was resized to be smaller than the number of
+    logical rows, it was not possible to scroll to the rows that
+    were cut off.
+  - If a session was maximized and the "Synchronize view to size"
+    option was set, if the session was sent to a new window, the
+    logical rows and columns in the new window were incorrect. 
+  - Unicode output was not displayed correctly in a tabbed session
+    other than the first tab.
+  - Under certain circumstances with SecureCRT maximized, text
+    could be cut off when switching between tabbed sessions.
+  - Opening a new window while in full screen mode caused the new
+    window to appear partially off screen.
+  - Under certain circumstances, a second SecureCRT window for an
+    existing session was cascaded when it shouldn't have been.
+  - If two sessions with different initial positions were connected,
+    only the initial position for the first session was honored.
+  - If the "Auto reconnect" option was set and authentication was
+    cancelled by the user, the session attempted to auto reconnect.
+  - Under certain circumstances when the "Auto reconnect" option
+    was enabled, a session attempted to reconnect even though its
+    associated tab had been closed.
+  - When the "Save expanded folder state in connect dialog" option
+    was set and a session in a folder was renamed in the Connect
+    dialog, it caused other folders to be expanded.
+  - It was not possible to map a key or button to "Trace Options"
+    or "Raw Log Session".
+  - The recent scripts menu item MENU_SCRIPT_MRU_FILE1 did not work
+    when used in a custom .MNU file.
+  - In a script, certain crt.Screen.ReadString syntax errors could
+    result in a crash.
+  - In a script, if a Connect call was made immediately after a
+    Disconnect call, SecureCRT could think the session was not
+    connected.
+  - Under certain circumstances, the line number reported when a
+    script was cancelled was incorrect.
+  - Paste output did not continue if a WaitForStrings script method
+    matched something in the pasted text.
+  - SSH2: SecureCRT could crash when web traffic was forwarded
+    through Firefox's Foxy-Proxy.
+  - SSH2: When a certificate from a CAPI store was used to
+    authenticate, agent forwarding did not work.
+  - SFTP: On some platforms, such as rhel5 and rhel4-64, wildcard
+    (ls -l *) file listings were returned in the wrong order.
+  - U3: Configuration settings were uninstalled when the U3 version
+    was uninstalled.

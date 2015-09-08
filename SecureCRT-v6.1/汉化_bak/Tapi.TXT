@@ -1,0 +1,122 @@
+########< 中文工具箱 >#######
+#> 原始档案名称: E:\softs\SecureCRT\Tapi.dll
+#> 原始档案大小: 210272
+#############################
+#=========================
+#> 语系: "English (United States)" -> "Chinese (GB)"
+#> 对话盒: 129
+#=========================
+#> 字型: "MS Shell Dlg" 8 -> "MS Shell Dlg" 8
+#--------------------
+Call Progress
+呼叫进度
+#--------------------
+&Dial
+拨号(&D)
+#--------------------
+Cancel
+取消
+#--------------------
+Static
+static
+#=========================
+#> 语系: "English (United States)" -> "Chinese (GB)"
+#> 对话盒: 133
+#=========================
+#> 字型: "MS Shell Dlg" 8 -> "MS Shell Dlg" 8
+#--------------------
+C&ountry code:
+国家代码(&O):
+#--------------------
+&Area code:
+区域代码(&A):
+#--------------------
+P&hone number:
+电话号码(&H):
+#--------------------
+Con&figure.
+配置.(&F)
+#=========================
+#> 语系: "English (United States)" -> "Chinese (GB)"
+#> 对话盒: 135
+#=========================
+#> 字型: "MS Shell Dlg" 8 -> "MS Shell Dlg" 8
+#--------------------
+TAPI\nTAPI Options
+TAPI\nTAPI 选项
+#--------------------
+&Number of redial attempts:
+重拨尝试次数(&N):
+#--------------------
+&Delay between attempts (sec):
+尝试间隔(秒)(&D):
+#--------------------
+&Dial using:
+呼叫使用(&D):
+#--------------------
+C&ountry code:
+国家代码(&O):
+#--------------------
+&Area code:
+区域代码(&A):
+#--------------------
+P&hone number:
+电话号码(&H):
+#--------------------
+Con&figure.
+配置.(&F)
+#=========================
+#> 语系: "English (United States)" -> "Chinese (GB)"
+#> 对话盒: 3001
+#=========================
+#> 字型: "MS Shell Dlg" 8 -> "MS Shell Dlg" 8
+#--------------------
+Advanced\nTAPI Advanced Options
+高级\nTAPI 高级选项
+#--------------------
+&Add
+增加(&A)
+#--------------------
+&Replace
+替换(&R)
+#--------------------
+&Phone numbers
+电话号码(&P)
+#--------------------
+&Up
+上(&U)
+#--------------------
+&Down
+下(&D)
+#--------------------
+De&lete
+删除(&L)
+#--------------------
+&Move successful number to top of list on connection
+在连接时把成功的号码移动到列表的顶部
+#=========================
+#> 语系: "English (United States)" -> "Chinese (GB)"
+#> 对话盒: 3110
+#=========================
+#> 字型: "MS Shell Dlg" 8 -> "MS Shell Dlg" 8
+#--------------------
+New Session Wizard
+新建会话向导
+#--------------------
+&Dial using:
+呼叫使用(&D):
+#--------------------
+C&ountry code:
+国家代码(&O):
+#--------------------
+&Area code:
+区域代码(&A):
+#--------------------
+P&hone number:
+电话号码(&H):
+#--------------------
+Con&figure...
+配置(&F)...
+#--------------------
+Enter the data necessary to make a TAPI connection.\nClick on "Configure" to configure a modem.
+输入进行一个 TAPI 连接所必需的数据。\n单击“配置”以配置一个调制解调器.

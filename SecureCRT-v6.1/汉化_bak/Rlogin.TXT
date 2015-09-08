@@ -1,0 +1,47 @@
+########< 中文工具箱 >#######
+#> 原始档案名称: E:\softs\SecureCRT\Rlogin.dll
+#> 原始档案大小: 157024
+#############################
+#=========================
+#> 语系: "English (United States)" -> "Chinese (GB)"
+#> 对话盒: 1577
+#=========================
+#> 字型: "MS Shell Dlg" 8 -> "MS Shell Dlg" 8
+#--------------------
+&Username:
+用户名(&U):
+#=========================
+#> 语系: "English (United States)" -> "Chinese (GB)"
+#> 对话盒: 4000
+#=========================
+#> 字型: "MS Shell Dlg" 8 -> "MS Shell Dlg" 8
+#--------------------
+RLogin\nRLogin Options
+RLogin\nRLogin 选项
+#--------------------
+&Username:
+用户名(&U):
+#=========================
+#> 语系: "English (United States)" -> "Chinese (GB)"
+#> 对话盒: 4003
+#=========================
+#> 字型: "MS Shell Dlg" 8 -> "MS Shell Dlg" 8
+#--------------------
+New Session Wizard
+新建会话向导
+#--------------------
+&Username:
+用户名(&U):
+#--------------------
+What is the name or IP address of the remote host?
+远程主机的名称或者 IP 地址是什么?
+#--------------------
+The user name can be left blank.
+用户名可以留空
+#=========================
+#> 语系: "English (United States)" -> "Chinese (GB)"
+#> 字串表: 7
+#=========================
+#--------------------
+Windows sockets initialization failed.
+Windows 套接字初始化失败.

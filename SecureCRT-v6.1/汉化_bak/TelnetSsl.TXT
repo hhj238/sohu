@@ -1,0 +1,83 @@
+########< 中文工具箱 >#######
+#> 原始档案名称: E:\softs\SecureCRT\TelnetSsl.dll
+#> 原始档案大小: 226656
+#############################
+#=========================
+#> 语系: "English (United States)" -> "Chinese (GB)"
+#> 对话盒: 220
+#=========================
+#> 字型: "MS Shell Dlg" 8 -> "MS Shell Dlg" 8
+#--------------------
+P&ort:
+端口(&O):
+#--------------------
+&Firewall:
+防火墙(&F):
+#=========================
+#> 语系: "English (United States)" -> "Chinese (GB)"
+#> 对话盒: 3001
+#=========================
+#> 字型: "MS Shell Dlg" 8 -> "MS Shell Dlg" 8
+#--------------------
+Telnet\nTelnet Options
+Telnet\nTelnet 选项
+#--------------------
+P&ort:
+端口(&O):
+#--------------------
+&Firewall:
+防火墙(&F):
+#--------------------
+Advanced
+高级
+#--------------------
+&Will LFLOW
+必须 LFLOW(&W)
+#--------------------
+&Enable NAWS
+启用 NAWS(&E)
+#--------------------
+Fo&rce character at a time mode
+强制每次一个字符模式(&R)
+#--------------------
+&Send SGA (port 23 only)
+发送 SGA (仅 23 端口)(&S)
+#--------------------
+S&end SGA
+发送 SGA(&E)
+#--------------------
+SSL
+SSL
+#--------------------
+&Disable certificate verification
+禁止证书校验(&D)
+#--------------------
+Enable &NTLM authentication
+启用 NTLM 鉴权(&N)
+#=========================
+#> 语系: "English (United States)" -> "Chinese (GB)"
+#> 对话盒: 3007
+#=========================
+#> 字型: "MS Shell Dlg" 8 -> "MS Shell Dlg" 8
+#--------------------
+NewSessionWizard
+新建会话向导
+#--------------------
+What is the name or IP address of the remote host?
+远程主机的名称和 IP 地址是什么?
+#--------------------
+&Hostname:
+主机名(&H):
+#--------------------
+P&ort:
+端口(&O):
+#--------------------
+&Firewall:
+防火墙(&F):
+#=========================
+#> 语系: "English (United States)" -> "Chinese (GB)"
+#> 字串表: 7
+#=========================
+#--------------------
+Windows sockets initialization failed.
+Windows 套接字初始化失败.

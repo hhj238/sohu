@@ -1,0 +1,1083 @@
+########< ÖĞÎÄ¹¤¾ßÏä >#######
+#> Ô­Ê¼µµ°¸Ãû³Æ: E:\softs\SecureCRT\SSH2Client61U.dll
+#> Ô­Ê¼µµ°¸´óĞ¡: 632160
+#############################
+#=========================
+#> ÓïÏµ: "English (United States)" -> "Chinese (GB)"
+#> ¶Ô»°ºĞ: 105
+#=========================
+#> ×ÖĞÍ: "MS Shell Dlg" 8 -> "MS Shell Dlg" 8
+#--------------------
+Enter Secure Shell Passphrase
+ÊäÈë°²È«Íâ¿ÇÍ¨ĞĞ¶ÌÓï
+#--------------------
+&Passphrase:
+Í¨ĞĞ¶ÌÓï(&P):
+#--------------------
+OK
+È·¶¨
+#--------------------
+Cancel
+È¡Ïû
+#--------------------
+Enter a passphrase to decrypt your private key for %1@%2!hs!
+ÊäÈëÒ»¸öÍ¨ĞĞ¶ÌÓïÒÔ¼ÓÃÜÄúÓÃÓÚ %1@%2!hs! µÄË½Ô¿
+#--------------------
+Comment:
+×¢ÊÍ:
+#--------------------
+COMMENT
+COMMENT
+#=========================
+#> ÓïÏµ: "English (United States)" -> "Chinese (GB)"
+#> ¶Ô»°ºĞ: 106
+#=========================
+#> ×ÖĞÍ: "MS Shell Dlg" 8 -> "MS Shell Dlg" 8
+#--------------------
+Change Password to Login
+¸ü¸ÄµÇÂ¼ÃÜÂë
+#--------------------
+Identity filename:
+Éí·İÎÄ¼şÃû:
+#--------------------
+Current &password:
+µ±Ç°ÃÜÂë(&P):
+#--------------------
+&New password:
+ĞÂÃÜÂë(&N):
+#--------------------
+&Confirm new password:
+È·ÈÏĞÂÃÜÂë(&C):
+#--------------------
+OK
+È·¶¨
+#--------------------
+Cancel
+È¡Ïû
+#=========================
+#> ÓïÏµ: "English (United States)" -> "Chinese (GB)"
+#> ¶Ô»°ºĞ: 107
+#=========================
+#> ×ÖĞÍ: "MS Shell Dlg" 8 -> "MS Shell Dlg" 8
+#--------------------
+Keyboard Interactive Authentication
+¼üÅÌ½»»¥ÑéÖ¤
+#--------------------
+&Save password
+±£´æÃÜÂë(&S)
+#--------------------
+OK
+È·¶¨
+#--------------------
+Cancel
+È¡Ïû
+#--------------------
+Keyboard interactive prompt for %s 
+ÓÃÓÚ %s µÄ¼üÅÌ½»»¥ÌáÊ¾
+#=========================
+#> ÓïÏµ: "English (United States)" -> "Chinese (GB)"
+#> ¶Ô»°ºĞ: 108
+#=========================
+#> ×ÖĞÍ: "MS Shell Dlg" 8 -> "MS Shell Dlg" 8
+#--------------------
+Enter SSH Username
+ÊäÈëSSH ÓÃ»§Ãû
+#--------------------
+The SSH server %s requires a username.  Please enter a username now.
+SSH ·şÎñÆ÷ %s ĞèÒªÒ»¸öÓÃ»§Ãû¡£ÇëÏÖÔÚÊäÈëÒ»¸öÓÃ»§Ãû.
+#--------------------
+&Username:
+ÓÃ»§Ãû(&U):
+#--------------------
+&Save username
+±£´æÓÃ»§Ãû(&S)
+#--------------------
+OK
+È·¶¨
+#--------------------
+Cancel
+È¡Ïû
+#=========================
+#> ÓïÏµ: "English (United States)" -> "Chinese (GB)"
+#> ¶Ô»°ºĞ: 109
+#=========================
+#> ×ÖĞÍ: "MS Shell Dlg" 8 -> "MS Shell Dlg" 8
+#--------------------
+New Host Key
+ĞÂ½¨Ö÷»úÃÜÔ¿
+#--------------------
+Accept && &Save
+½ÓÊÜ²¢±£´æ(&S)
+#--------------------
+Cancel
+È¡Ïû
+#--------------------
+Accept &Once
+Ö»½ÓÊÜÒ»´Î(&O)
+#=========================
+#> ÓïÏµ: "English (United States)" -> "Chinese (GB)"
+#> ¶Ô»°ºĞ: 110
+#=========================
+#> ×ÖĞÍ: "MS Shell Dlg" 8 -> "MS Shell Dlg" 8
+#--------------------
+Enter Secure Shell Password
+ÊäÈë°²È«Íâ¿ÇÃÜÂë
+#--------------------
+%s requires a password.  Please enter a password now.
+%s ĞèÒªÒ»¸öÃÜÂë. ÏÖÔÚÇëÊäÈëÒ»¸öÃÜÂë.
+#--------------------
+&Username:
+ÓÃ»§Ãû(&U):
+#--------------------
+&Password:
+ÃÜÂë(&P):
+#--------------------
+&Save password
+±£´æÃÜÂë(&S)
+#--------------------
+OK
+È·¶¨
+#--------------------
+Cancel
+È¡Ïû
+#=========================
+#> ÓïÏµ: "English (United States)" -> "Chinese (GB)"
+#> ¶Ô»°ºĞ: 129
+#=========================
+#> ×ÖĞÍ: "MS Shell Dlg" 8 -> "MS Shell Dlg" 8
+#--------------------
+Key Generation Wizard 
+ÃÜÔ¿Éú³ÉÏòµ¼
+#=========================
+#> ÓïÏµ: "English (United States)" -> "Chinese (GB)"
+#> ¶Ô»°ºĞ: 130
+#=========================
+#> ×ÖĞÍ: "Tahoma" 8 -> "Tahoma" 8
+#--------------------
+Select remote folder
+Ñ¡ÔñÔ¶³ÌÎÄ¼ş¼Ğ
+#--------------------
+Cancel
+È¡Ïû
+#=========================
+#> ÓïÏµ: "English (United States)" -> "Chinese (GB)"
+#> ¶Ô»°ºĞ: 132
+#=========================
+#> ×ÖĞÍ: "MS Shell Dlg" 8 -> "MS Shell Dlg" 8
+#--------------------
+Key Generation Wizard
+ÃÜÔ¿Éú³ÉÏòµ¼
+#--------------------
+Please move the mouse until the progress bar stops moving. This provides important random input that is used during key generation.
+ÇëÒÆ¶¯Êó±êÖ±µ½½ø¶ÈÌõÍ£Ö¹»î¶¯¡£ÕâÌá¹©ÁËÔÚÃÜÔ¿Éú³ÉÆÚ¼äÊ¹ÓÃµÄÖØÒªµÄËæ»úÊäÈë.
+#--------------------
+The key is now being generated. This could take from a few seconds to several minutes depending on the key length selected and the PC's processor speed.
+ÃÜÔ¿ÏÖÔÚÕıÔÚ±»Éú³É¡£ÕâÒ²Ğí»á»¨¼¸ÃëÖÓµ½¼¸·ÖÖÓ£¬ÒÀÀµÓÚÑ¡ÔñµÄÃÜÔ¿³¤¶ÈºÍ PC µÄ´¦ÀíÆ÷ËÙ¶È.
+#=========================
+#> ÓïÏµ: "English (United States)" -> "Chinese (GB)"
+#> ¶Ô»°ºĞ: 133
+#=========================
+#> ×ÖĞÍ: "MS Shell Dlg" 8 -> "MS Shell Dlg" 8
+#--------------------
+Key Generation Wizard
+ÃÜÔ¿Éú³ÉÏòµ¼
+#--------------------
+Choose a directory and filename for the private key. The public key will use the same directory and filename with a .pub extension.
+ÎªË½Ô¿Ñ¡ÔñÒ»¸öÄ¿Â¼ºÍÎÄ¼şÃû¡£¹«Ô¿½«Ê¹ÓÃÏàÍ¬µÄÄ¿Â¼ºÍÎÄ¼şÃû(À©Õ¹ÃûÎª .pub).
+#--------------------
+Standard Public Key and VanDyke Private Key format
+±ê×¼¹«Ô¿ºÍ VanDyke Ë½Ô¿¸ñÊ½
+#--------------------
+OpenSSH Key format
+OpenSSH ÃÜÔ¿¸ñÊ½
+#--------------------
+Private key filename:
+Ë½Ô¿ÎÄ¼şÃû:
+#--------------------
+...
+...
+#--------------------
+Public key filename:
+¹«Ô¿ÎÄ¼şÃû:
+#--------------------
+After exiting the Wizard, upload the public key file to the appropriate folder on your SSH server.  See help or refer to your SSH server documentation for more information. 
+ÔÚÍË³öÏòµ¼Ö®ºó£¬°Ñ¹«Ô¿ÎÄ¼şÉÏ´«µ½ÄúµÄ SSH ·şÎñÆ÷ÉÏµÄÊÊµ±ÎÄ¼ş¼Ğ¡£²é¿´°ïÖú»ò²éÔÄÄúµÄ SSH ·şÎñÆ÷ÎÄµµÁË½â¸ü¶àĞÅÏ¢. 
+#=========================
+#> ÓïÏµ: "English (United States)" -> "Chinese (GB)"
+#> ¶Ô»°ºĞ: 140
+#=========================
+#> ×ÖĞÍ: "MS Shell Dlg" 8 -> "MS Shell Dlg" 8
+#--------------------
+Local Port Forwarding Properties
+±¾µØ¶Ë¿Ú×ª·¢ÊôĞÔ
+#--------------------
+Enter a descriptive name for this forwarded connection.
+ÎªÕâ¸ö×ª·¢Á¬½ÓÊäÈëÒ»¸öÃèÊöÃû.
+#--------------------
+&Name:
+Ãû³Æ(&N):
+#--------------------
+Local
+±¾µØ
+#--------------------
+&Manually select local IP address on which to allow connections.
+ÊÖ¹¤Ñ¡ÔñÔÊĞíÁ¬½ÓµÄ±¾µØ IP µØÖ·.(&M)
+#--------------------
+&IP address:
+IP µØÖ·(&I):
+#--------------------
+Enter the number or name of a port on this machine.  This port's data will be securely forwarded to the SSH server.
+ÊäÈëÕâÌ¨»úÆ÷ÉÏµÄÒ»¸ö¶Ë¿ÚµÄ±àºÅ»òÃû³Æ¡£Õâ¸ö¶Ë¿ÚµÄÊı¾İ½«±»°²È«µØ×ª·¢µ½ SSH ·şÎñÆ÷.
+#--------------------
+&Port:
+¶Ë¿Ú(&P):
+#--------------------
+Remote
+Ô¶³Ì
+#--------------------
+Data will be forwarded from the local machine to the destination host by the SSH server.
+Êı¾İ½«±» SSH ·şÎñÆ÷´Ó±¾µØ»úÆ÷×ª·¢µ½Ä¿µÄµØÖ÷»ú.
+#--------------------
+&Destination host is different from the SSH server.
+Ä¿µÄµØÖ÷»ú²»Í¬ÓÚ SSH ·şÎñÆ÷.(&D)
+#--------------------
+&Hostname:
+Ö÷»úÃû(&H):
+#--------------------
+P&ort:
+¶Ë¿Ú(&O):
+#--------------------
+Dynamic forwarding using &SOCKS 4 or 5
+¶¯Ì¬×ª·¢Ê¹ÓÃ SOCKS 4 »ò 5(&S)
+#--------------------
+Application
+Ó¦ÓÃ
+#--------------------
+You can optionally specify an application to be launched on the local machine when the SSH session is established.
+Äú¿ÉÒÔ¿ÉÑ¡µØÖ¸¶¨Ò»¸öÓ¦ÓÃ³ÌĞò£¬µ± SSH »á»°½¨Á¢Ê±ÔÚ±¾µØ»úÆ÷ÉÏ±»Æô¶¯.
+#--------------------
+&Application:
+Ó¦ÓÃ³ÌĞò(&A):
+#--------------------
+...
+...
+#--------------------
+A&rguments:
+²ÎÊı(&R):
+#--------------------
+OK
+È·¶¨
+#--------------------
+Cancel
+È¡Ïû
+#=========================
+#> ÓïÏµ: "English (United States)" -> "Chinese (GB)"
+#> ¶Ô»°ºĞ: 143
+#=========================
+#> ×ÖĞÍ: "MS Shell Dlg" 8 -> "MS Shell Dlg" 8
+#--------------------
+Public Key Properties
+¹«Ô¿ÊôĞÔ
+#--------------------
+OK
+È·¶¨
+#--------------------
+Cancel
+È¡Ïû
+#=========================
+#> ÓïÏµ: "English (United States)" -> "Chinese (GB)"
+#> ¶Ô»°ºĞ: 220
+#=========================
+#> ×ÖĞÍ: "MS Shell Dlg" 8 -> "MS Shell Dlg" 8
+#--------------------
+P&ort:
+¶Ë¿Ú(&O):
+#--------------------
+&Firewall:
+·À»ğÇ½(&F):
+#--------------------
+&Username:
+ÓÃ»§Ãû(&U):
+#--------------------
+Authentication Guide Control
+Authentication Guide Control
+#=========================
+#> ÓïÏµ: "English (United States)" -> "Chinese (GB)"
+#> ¶Ô»°ºĞ: 221
+#=========================
+#> ×ÖĞÍ: "MS Sans Serif" 8 -> "ËÎÌå" 9
+#--------------------
+Drive Mapping
+´ÅÅÌÓ³Éä
+#--------------------
+&Share Name:
+¹²ÏíÃû³Æ(&S):
+#--------------------
+&Remote Path:
+Ô¶³ÌÂ·¾¶(&R):
+#--------------------
+&Browse...
+ä¯ÀÀ(&B)...
+#--------------------
+OK
+È·¶¨
+#--------------------
+Cancel
+È¡Ïû
+#=========================
+#> ÓïÏµ: "English (United States)" -> "Chinese (GB)"
+#> ¶Ô»°ºĞ: 224
+#=========================
+#> ×ÖĞÍ: "MS Shell Dlg" 8 -> "MS Shell Dlg" 8
+#--------------------
+SFTP Driver Mappings\nSFTP Drive Mappings
+SFTP ´ÅÅÌÓ³Éä\nSFTP ´ÅÅÌÓ³Éä
+#--------------------
+&Add
+Ôö¼Ó(&A)
+#--------------------
+&Remove
+ÒÆ³ı(&R)
+#--------------------
+&Edit
+±à¼­(&E)
+#--------------------
+Disable Named Stream Files
+½ûÖ¹ÒÑÃüÁîÁ÷ÎÄ¼ş
+#--------------------
+Options
+Ñ¡Ïî
+#=========================
+#> ÓïÏµ: "English (United States)" -> "Chinese (GB)"
+#> ¶Ô»°ºĞ: 225
+#=========================
+#> ×ÖĞÍ: "MS Shell Dlg" 8 -> "MS Shell Dlg" 8
+#--------------------
+SFTP User Mappings\nSFTP User Mappings
+SFTP ÓÃ»§Ó³Éä\nSFTP ÓÃ»§Ó³Éä
+#--------------------
+&Remove
+ÒÆ³ı(&R)
+#--------------------
+&Edit
+±à¼­(&E)
+#=========================
+#> ÓïÏµ: "English (United States)" -> "Chinese (GB)"
+#> ¶Ô»°ºĞ: 226
+#=========================
+#> ×ÖĞÍ: "MS Sans Serif" 8 -> "ËÎÌå" 9
+#--------------------
+Mapping
+Ó³Éä
+#--------------------
+&Browse...
+ä¯ÀÀ(&B)...
+#--------------------
+&Remote Name
+Ô¶³ÌÃû³Æ(&R)
+#--------------------
+OK
+È·¶¨
+#--------------------
+Cancel
+È¡Ïû
+#=========================
+#> ÓïÏµ: "English (United States)" -> "Chinese (GB)"
+#> ¶Ô»°ºĞ: 1000
+#=========================
+#> ×ÖĞÍ: "MS Shell Dlg" 8 -> "MS Shell Dlg" 8
+#--------------------
+Public-Key Assistant for 
+¹«Ô¿ÖúÊÖÓÃÓÚ
+#--------------------
+User:
+ÓÃ»§:
+#--------------------
+<user>
+<user>
+#--------------------
+Status:
+×´Ì¬:
+#--------------------
+Static
+static
+#--------------------
+&Upload...
+ÉÏ´«(&U)...
+#--------------------
+C&reate...
+´´½¨(&R)...
+#--------------------
+&Delete
+É¾³ı(&D)
+#--------------------
+&Close
+¹Ø±Õ(&C)
+#=========================
+#> ÓïÏµ: "English (United States)" -> "Chinese (GB)"
+#> ¶Ô»°ºĞ: 1032
+#=========================
+#> ×ÖĞÍ: "MS Shell Dlg" 8 -> "MS Shell Dlg" 8
+#--------------------
+Select Certificate
+Ñ¡ÔñÖ¤Êé
+#--------------------
+Select the certificate you want to use
+Ñ¡ÔñÄãÒªÊ¹ÓÃµÄÖ¤Êé
+#--------------------
+OK
+È·¶¨
+#--------------------
+Cancel
+È¡Ïû
+#=========================
+#> ÓïÏµ: "English (United States)" -> "Chinese (GB)"
+#> ¶Ô»°ºĞ: 1552
+#=========================
+#> ×ÖĞÍ: "MS Shell Dlg" 8 -> "MS Shell Dlg" 8
+#--------------------
+Key Generation Wizard
+ÃÜÔ¿Éú³ÉÏòµ¼
+#--------------------
+Enter a comment that will be displayed when you are asked for your passphrase. It will be stored with your key.
+ÊäÈëÒ»¸öÔÚÄú±»ÎÊ¼°ÄúµÄÍ¨ĞĞ¶ÌÓïÊ±½«±»ÏÔÊ¾µÄ×¢ÊÍ¡£Ëü½«±»ÒÔÄúµÄÃÜÔ¿´¢´æ.
+#--------------------
+Enter a passphrase which protects your encrypted private key.  The passphrase is optional, but if it is not used, the private key will not be encrypted (not recommended).
+ÊäÈëÒ»¸ö±£»¤ÄúµÄ¼ÓÃÜµÄ¹«Ô¿µÄÍ¨ĞĞ¶ÌÓï¡£Í¨ĞĞ¶ÌÓïÊÇ¿ÉÑ¡µÄ£¬µ«ÊÇÈç¹ûËüÎ´±»Ê¹ÓÃ£¬¹«Ô¿½«²»±»¼ÓÃÜ(²»ÍÆ¼ö).
+#--------------------
+Passphrase:
+Í¨ĞĞ¶ÌÓï:
+#--------------------
+Confirm Passphrase:
+È·ÈÏÍ¨ĞĞ¶ÌÓï:
+#--------------------
+Comment:
+×¢ÊÍ:
+#=========================
+#> ÓïÏµ: "English (United States)" -> "Chinese (GB)"
+#> ¶Ô»°ºĞ: 1553
+#=========================
+#> ×ÖĞÍ: "MS Shell Dlg" 8 -> "MS Shell Dlg" 8
+#--------------------
+Key Generation Wizard
+ÃÜÔ¿Éú³ÉÏòµ¼
+#--------------------
+Select the length of your key pair between 512 and 2048 bits.
+ÔÚ 512 ºÍ 2048 Î»Ö®¼äÑ¡ÔñÄúµÄÃÜÔ¿¶ÔµÄ³¤¶È.
+#--------------------
+Key length in bits:
+ÃÜÔ¿³¤¶È(Î»):
+#--------------------
+A lower number provides less security, takes less time to generate and authenticates faster. A higher number provides greater security, takes more time to generate, and authenticates more slowly. 1024 is the recommended value.
+Ò»¸ö½ÏµÍµÄÊı×ÖÌá¹©½ÏÉÙµÄ°²È«ĞÔ£¬»¨½ÏÉÙµÄÊ±¼äÉú³É²¢ÇÒÑéÖ¤¸ü¿ì¡£ Ò»¸ö½Ï¸ßµÄÊı×ÖÌá¹©½Ï´óµÄ°²È«ĞÔ£¬»¨½Ï¶àµÄÊ±¼äÉú³É²¢ÇÒÑéÖ¤¸üÂı¡£ 1024 ÊÇÍÆ¼öÖµ.
+#--------------------
+Must be a multiple of 64
+±ØĞëÊÇ 64 µÄ±¶Êı
+#=========================
+#> ÓïÏµ: "English (United States)" -> "Chinese (GB)"
+#> ¶Ô»°ºĞ: 1555
+#=========================
+#> ×ÖĞÍ: "MS Shell Dlg" 8 -> "MS Shell Dlg" 8
+#--------------------
+Change Passphrase
+¸ü¸ÄÍ¨ĞĞ¶ÌÓï
+#--------------------
+Identity filename:
+Éí·İÎÄ¼şÃû:
+#--------------------
+Path to Identity Filename
+µ½Éí·İÎÄ¼şÃûµÄÂ·¾¶
+#--------------------
+Current &passphrase:
+µ±Ç°Í¨ĞĞ¶ÌÓï(&P):
+#--------------------
+&New passphrase:
+ĞÂ½¨Í¨ĞĞ¶ÌÓï(&N):
+#--------------------
+&Confirm new passphrase:
+È·ÈÏĞÂ½¨Í¨ĞĞ¶ÌÓï(&C):
+#--------------------
+OK
+È·¶¨
+#--------------------
+Cancel
+È¡Ïû
+#=========================
+#> ÓïÏµ: "English (United States)" -> "Chinese (GB)"
+#> ¶Ô»°ºĞ: 1560
+#=========================
+#> ×ÖĞÍ: "MS Shell Dlg" 8 -> "MS Shell Dlg" 8
+#--------------------
+Public Key\nPublic Key
+¹«Ô¿\n¹«Ô¿
+#--------------------
+Use session public &key setting
+Ê¹ÓÃ»á»°¹«Ô¿ÉèÖÃ(&K)
+#--------------------
+Session settings
+»á»°ÉèÖÃ
+#--------------------
+Us&e identity or certificate file
+Ê¹ÓÃÉí·İ»òÖ¤ÊéÎÄ¼ş(&E)
+#--------------------
+U&se personal store certificate (CAPI)
+Ê¹ÓÃ¸öÈË´æ´¢Ö¤Êé(CAPI)(&S)
+#--------------------
+...
+...
+#--------------------
+Fingerprint (%1) :
+Ö¸ÎÆ (%1) :
+#--------------------
+Create &Identity File...
+´´½¨Éí·İÎÄ¼ş(&I)...
+#--------------------
+Upl&oad
+ÉÏ´«(&O)
+#--------------------
+Change &Passphrase...
+¸ü¸ÄÍ¨ĞĞ¶ÌÓï(&P)...
+#--------------------
+Each certificate will be tried until one succeed
+½«³¢ÊÔÃ¿¸öÖ¤Êé£¬Ö±µ½Ò»¸ö³É¹¦
+#=========================
+#> ÓïÏµ: "English (United States)" -> "Chinese (GB)"
+#> ¶Ô»°ºĞ: 1562
+#=========================
+#> ×ÖĞÍ: "MS Shell Dlg" 8 -> "MS Shell Dlg" 8
+#--------------------
+Port Forwarding\nLocal Port Forwarding
+¶Ë¿Ú×ª·¢\n±¾µØ¶Ë¿Ú×ª·¢
+#--------------------
+&Add...
+Ôö¼Ó(&A)...
+#--------------------
+&Edit...
+±à¼­(&E)...
+#--------------------
+&Delete
+É¾³ı(&D)
+#--------------------
+Do not request a &shell
+²»ÇëÇóÒ»¸ö shell(&S)
+#=========================
+#> ÓïÏµ: "English (United States)" -> "Chinese (GB)"
+#> ¶Ô»°ºĞ: 1563
+#=========================
+#> ×ÖĞÍ: "MS Shell Dlg" 8 -> "MS Shell Dlg" 8
+#--------------------
+Remote/X11\nRemote Port Forwarding / X11 Forwarding
+Ô¶³Ì/X11\nÔ¶³Ì¶Ë¿Ú×ª·¢/X11 ×ª·¢
+#--------------------
+&Add...
+Ôö¼Ó(&A)...
+#--------------------
+&Edit...
+±à¼­(&E)...
+#--------------------
+&Delete
+É¾³ı(&D)
+#--------------------
+&X11 Forwarding
+X11 ×ª·¢(&X)
+#--------------------
+Selecting this option causes SecureCRT® to request that the remote machine forward X11 data to the X server running on the local machine.
+Ñ¡ÔñÕâ¸öÑ¡ÏîÊ¹ SecureCRT ÇëÇóÔ¶³Ì»úÆ÷°Ñ X11 Êı¾İ×ª·¢µ½ÔËĞĞÔÚ±¾µØ»úÆ÷ÉÏµÄ X ·şÎñÆ÷.
+#--------------------
+&Forward X11 packets
+×ª·¢ X11 Êı¾İ°ü(&F)
+#--------------------
+ IMPORTANT: Any changes you make will not take effect until the next\n time this session connects.
+ ÖØÒª£ºÄú×ö³öµÄÈÎºÎ¸ü¸ÄÖ±µ½ÏÂ´ÎÕâ¸ö»á»°Á¬½Ó²Å»áÉúĞ§
+#=========================
+#> ÓïÏµ: "English (United States)" -> "Chinese (GB)"
+#> ¶Ô»°ºĞ: 1564
+#=========================
+#> ×ÖĞÍ: "MS Shell Dlg" 8 -> "MS Shell Dlg" 8
+#--------------------
+Remote Port Forwarding Properties
+Ô¶³Ì¶Ë¿Ú×ª·¢ÊôĞÔ
+#--------------------
+Enter a descriptive name for this forwarded connection.
+ÊäÈëÒ»¸ö¼ÇÊöµÄÃû³ÆÎªÁËÕâ¸ö×ªËÍĞÅ¼şÁ¬½Ó.
+#--------------------
+&Name:
+Ãû³Æ(&N):
+#--------------------
+Remote
+Ô¶³Ì
+#--------------------
+&Manually select remote IP address on which to allow\nconnections.
+ÊÖ¹¤Ñ¡ÔñÔÊĞíÁ¬½ÓµÄÔ¶³Ì IP µØÖ·(&M).
+#--------------------
+&IP address:
+IP µØÖ·(&I):
+#--------------------
+Enter the number or name of a port on the SSH2 server.  This port's data will be forwarded to the local machine.
+ÊäÈëÔÚ SSH2 ·şÎñÆ÷ÉÏµÄÒ»¸ö¶Ë¿ÚµÄ±àºÅ»òÃû³Æ¡£Õâ¸ö¶Ë¿ÚµÄÊı¾İ½«±»×ª·¢µ½±¾µØ»úÆ÷.
+#--------------------
+&Port:
+¶Ë¿Ú(&P):
+#--------------------
+Local
+±¾µØ
+#--------------------
+Data will be forwarded from the remote SSH server to the destination host.  Note that the hostname only needs to be entered if the destination host is not the same as localhost.
+Êı¾İ½«´ÓÔ¶³Ì SSH ·şÎñÆ÷×ª·¢µ½Ä¿µÄµØÖ÷»ú¡£×¢Òâ£¬Èç¹ûÄ¿µÄµØÖ÷»úºÍ±¾»ú²»Í¬£¬Ö»ĞèÒªÊäÈëÖ÷»úÃû.
+#--------------------
+&Destination host is different from localhost.
+Ä¿µÄµØÖ÷»ú²»Í¬ÓÚ±¾»ú(&D).
+#--------------------
+&Hostname:
+Ö÷»úÃû(&H):
+#--------------------
+P&ort:
+¶Ë¿Ú(&O):
+#--------------------
+OK
+È·¶¨
+#--------------------
+Cancel
+È¡Ïû
+#=========================
+#> ÓïÏµ: "English (United States)" -> "Chinese (GB)"
+#> ¶Ô»°ºĞ: 1566
+#=========================
+#> ×ÖĞÍ: "MS Shell Dlg" 8 -> "MS Shell Dlg" 8
+#--------------------
+SSH Host Keys
+SSH Ö÷»úÃÜÔ¿
+#--------------------
+&View Key...
+²é¿´ÃÜÔ¿(&V)...
+#--------------------
+&Import Key...
+µ¼ÈëÃÜÔ¿(&I)...
+#--------------------
+&Export Key...
+µ¼³öÃÜÔ¿(&E)...
+#--------------------
+&Delete
+É¾³ı(&D)
+#--------------------
+&Host key database location
+Ö÷»úÃÜÔ¿Êı¾İ¿âÎ»ÖÃ(&H)
+#--------------------
+...
+...
+#--------------------
+Digital certificates
+Êı×ÖÖ¤Êé
+#--------------------
+Check certificate &revocation lists
+¼ì²éÈ¡ÏûÖ¤ÊéÁĞ±í(&R)
+#=========================
+#> ÓïÏµ: "English (United States)" -> "Chinese (GB)"
+#> ¶Ô»°ºĞ: 1567
+#=========================
+#> ×ÖĞÍ: "MS Shell Dlg" 8 -> "MS Shell Dlg" 8
+#--------------------
+Enter SSH2 Host Information
+ÊäÈë SSH2 Ö÷»úĞÅÏ¢
+#--------------------
+Please enter the host information for the host key you are importing.  You must enter either a hostname or an IP address.
+ÇëÎªÄúÒªµ¼ÈëµÄÖ÷»úÃÜÔ¿ÊäÈëÖ÷»úĞÅÏ¢¡£Äú±ØĞëÊäÈëÒ»¸öÖ÷»úÃû»òÕßÒ»¸ö IP µØÖ·.
+#--------------------
+&Hostname:
+Ö÷»úÃû(&H):
+#--------------------
+&IP Address:
+IP µØÖ·(&I):
+#--------------------
+&Port
+¶Ë¿Ú(&P)
+#--------------------
+OK
+È·¶¨
+#--------------------
+Cancel
+È¡Ïû
+#=========================
+#> ÓïÏµ: "English (United States)" -> "Chinese (GB)"
+#> ¶Ô»°ºĞ: 1568
+#=========================
+#> ×ÖĞÍ: "MS Shell Dlg" 8 -> "MS Shell Dlg" 8
+#--------------------
+View Host Key
+²é¿´Ö÷»úÃÜÔ¿
+#--------------------
+Close
+¹Ø±Õ
+#--------------------
+&Copy Text
+¸´ÖÆÎÄ±¾(&C)
+#=========================
+#> ÓïÏµ: "English (United States)" -> "Chinese (GB)"
+#> ¶Ô»°ºĞ: 1569
+#=========================
+#> ×ÖĞÍ: "MS Shell Dlg" 8 -> "MS Shell Dlg" 8
+#--------------------
+SSH2\nSSH2
+SSH2\nSSH2
+#--------------------
+&Use identity or certificate file
+Ê¹ÓÃÉí·İ»òÖ¤ÊéÎÄ¼ş(&U)
+#--------------------
+U&se personal store certificate (CAPI)
+Ê¹ÓÃ¸öÈË´æ´¢Ö¤Êé(CAPI)(&S)
+#--------------------
+...
+...
+#--------------------
+Fingerprint (%1) :
+Ö¸ÎÆ (%1) :
+#--------------------
+Create &Identity File...
+´´½¨Éí·İÎÄ¼ş(&I)...
+#--------------------
+Change &Passphrase...
+¸ü¸ÄÍ¨ĞĞ¶ÌÓï(&P)...
+#--------------------
+Each certificate will be tried until one succeeds.
+½«³¢ÊÔÃ¿¸öÖ¤Êé£¬Ö±µ½Ò»¸ö³É¹¦.
+#--------------------
+Advanced
+¸ß¼¶
+#--------------------
+&Add keys to agent
+°ÑÃÜÔ¿Ìí¼Óµ½´úÀí³ÌĞò(&A)
+#--------------------
+&Enable OpenSSH agent forwarding
+ÆôÓÃ OpenSSH ´úÀí³ÌĞò×ª·¢(&E)
+#--------------------
+Enable deprecated &GSSAPI
+ÆôÓÃ¹ıÊ± GSSAPI(&G)
+#--------------------
+Cac&he session password
+»º´æ»á»°ÃÜÂë(&H)
+#=========================
+#> ÓïÏµ: "English (United States)" -> "Chinese (GB)"
+#> ¶Ô»°ºĞ: 3008
+#=========================
+#> ×ÖĞÍ: "MS Shell Dlg" 8 -> "MS Shell Dlg" 8
+#--------------------
+SSH2\nSSH2
+SSH2\nSSH2
+#--------------------
+P&ort:
+¶Ë¿Ú(&O):
+#--------------------
+&Firewall:
+·À»ğÇ½(&F):
+#--------------------
+&Username:
+ÓÃ»§Ãû(&U):
+#=========================
+#> ÓïÏµ: "English (United States)" -> "Chinese (GB)"
+#> ¶Ô»°ºĞ: 5004
+#=========================
+#> ×ÖĞÍ: "MS Shell Dlg" 8 -> "MS Shell Dlg" 8
+#--------------------
+Upload Public Key
+ÉÏ´«¹«Ô¿
+#--------------------
+Server:
+·şÎñÆ÷:
+#--------------------
+Static
+static
+#--------------------
+Key:
+ÃÜÔ¿:
+#--------------------
+Status:
+×´Ì¬:
+#--------------------
+Cancel
+È¡Ïû
+#--------------------
+Static
+static
+#=========================
+#> ÓïÏµ: "English (United States)" -> "Chinese (GB)"
+#> ¶Ô»°ºĞ: 5005
+#=========================
+#> ×ÖĞÍ: "MS Shell Dlg" 8 -> "MS Shell Dlg" 8
+#--------------------
+Key Generation Wizard 
+ÃÜÔ¿Éú³ÉÏòµ¼
+#--------------------
+Select the type of key to generate.  Most servers support DSA keys.  Many servers may not support RSA keys.
+Ñ¡ÔñÒªÉú³ÉµÄÃÜÔ¿ÀàĞÍ¡£´ó¶àÊı·şÎñÆ÷Ö§³Ö DSA ÃÜÔ¿¡£¶àÊı·şÎñÆ÷²»Ö§³Ö RSA ÃÜÔ¿.
+#--------------------
+&Key type:
+ÃÜÔ¿ÀàĞÍ(&K):
+#=========================
+#> ÓïÏµ: "English (United States)" -> "Chinese (GB)"
+#> ¶Ô»°ºĞ: 5007
+#=========================
+#> ×ÖĞÍ: "MS Shell Dlg" 8 -> "MS Shell Dlg" 8
+#--------------------
+GSSAPI Properties
+GSSAPI ÊôĞÔ
+#--------------------
+&Delegation:
+Delegation(&D):
+#--------------------
+OK
+È·¶¨
+#--------------------
+Cancel
+È¡Ïû
+#--------------------
+SPN (Server Principal Name)
+SPN (·şÎñÆ÷Ê×ÒªÃû³Æ)
+#--------------------
+Ma&nually specify the SPN (default is host@$(HOST))
+ÊÖ¶¯Ö¸¶¨SPN (Ô¤ÉèµÄÖ÷»úÊÇ@$(HOST))(&N)
+#--------------------
+&SPN:
+SPN(&S):
+#--------------------
+Format: host@<host name>@<realm name>\n\nAvailable substitutions: $(HOST), $(PORT)
+¸ñÊ½: Ö÷»ú@<Ö÷»úÃû³Æ>@<·¶³ëÃû³Æ>\n\nÓĞĞ§Ìæ»»: $(Ö÷»ú), $(¶Ë¿Ú)
+#--------------------
+<< &Advanced
+<< ¸ß¼¶(&A)
+#=========================
+#> ÓïÏµ: "English (United States)" -> "Chinese (GB)"
+#> ¶Ô»°ºĞ: 5008
+#=========================
+#> ×ÖĞÍ: "MS Shell Dlg" 8 -> "MS Shell Dlg" 8
+#--------------------
+Up
+ÉÏ
+#--------------------
+Down
+ÏÂ
+#--------------------
+Prop&erties.
+ÊôĞÔ(&E).
+#=========================
+#> ÓïÏµ: "English (United States)" -> "Chinese (GB)"
+#> ¶Ô»°ºĞ: 5012
+#=========================
+#> ×ÖĞÍ: "MS Shell Dlg" 8 -> "MS Shell Dlg" 8
+#--------------------
+Advanced\nSSH2 Advanced Options
+¸ß¼¶\nSSH2 ¸ß¼¶Ñ¡Ïî
+#--------------------
+&MAC
+MAC(&M)
+#--------------------
+&Options
+Ñ¡Ïî(&O)
+#--------------------
+&Compression:
+Ñ¹Ëõ(&C):
+#--------------------
+Le&vel:
+¼¶±ğ(&V):
+#--------------------
+&Enable OpenSSH agent forwarding
+ÆôÓÃ OpenSSH ´úÀí³ÌĞò×ª·¢(&E)
+#=========================
+#> ÓïÏµ: "English (United States)" -> "Chinese (GB)"
+#> ¶Ô»°ºĞ: 5016
+#=========================
+#> ×ÖĞÍ: "MS Shell Dlg" 8 -> "MS Shell Dlg" 8
+#--------------------
+Up
+ÉÏ
+#--------------------
+Do
+×ö
+#=========================
+#> ÓïÏµ: "English (United States)" -> "Chinese (GB)"
+#> ¶Ô»°ºĞ: 5018
+#=========================
+#> ×ÖĞÍ: "MS Shell Dlg" 8 -> "MS Shell Dlg" 8
+#--------------------
+Password Properties
+ÃÜÂëÊôĞÔ
+#--------------------
+&Unsave Password
+²»±£´æÃÜÂë(&U)
+#--------------------
+Change &Password
+¸ü¸ÄÃÜÂë(&P)
+#--------------------
+Close
+¹Ø±Õ
+#--------------------
+Stored Password
+´¢´æÃÜÂë
+#--------------------
+Change Remote Password
+¸ü¸ÄÔ¶³ÌÃÜÂë
+#=========================
+#> ÓïÏµ: "English (United States)" -> "Chinese (GB)"
+#> ¶Ô»°ºĞ: 8005
+#=========================
+#> ×ÖĞÍ: "MS Shell Dlg" 8 -> "MS Shell Dlg" 8
+#--------------------
+SSH1 Public Key Properties
+SSH1 ¹«Ô¿ÊôĞÔ
+#--------------------
+Use &session identity file
+Ê¹ÓÃÈ«¾ÖÉí·İÎÄ¼ş(&S)
+#--------------------
+&Identity file:
+Éí·İÎÄ¼ş(&I):
+#--------------------
+...
+...
+#--------------------
+&Create Identity File
+´´½¨Éí·İÎÄ¼ş(&C)
+#--------------------
+Change &Passphrase
+¸ü¸ÄÍ¨ĞĞ¶ÌÓï(&P)
+#--------------------
+OK
+È·¶¨
+#--------------------
+Cancel
+È¡Ïû
+#=========================
+#> ÓïÏµ: "English (United States)" -> "Chinese (GB)"
+#> ¶Ô»°ºĞ: 8006
+#=========================
+#> ×ÖĞÍ: "MS Shell Dlg" 8 -> "MS Shell Dlg" 8
+#--------------------
+Warning
+¾¯¸æ
+#--------------------
+Continue
+¼ÌĞø
+#--------------------
+Cancel
+È¡Ïû
+#--------------------
+&Do not show this message again.
+²»ÒªÏÔÊ¾Õâ¸öÑ¶Ï¢ÔÙ´Î.(&D)
+#=========================
+#> ÓïÏµ: "English (United States)" -> "Chinese (GB)"
+#> ×Ö´®±í: 9
+#=========================
+#--------------------
+Type
+ÀàĞÍ
+#--------------------
+Fingerprint (%1)
+Ö¸ÎÆ (%1)
+#--------------------
+Comment
+×¢ÊÍ
+#--------------------
+Public-key assistant closed
+¹«Ô¿ÖúÊÖÒÑ¹Ø±ÕµÄ
+#--------------------
+Opening public-key assistant...
+ÕıÔÚ´ò¿ª¹«Ô¿ÖúÊÖ...
+#--------------------
+Public-key assistant ready
+¹«Ô¿ÖúÊÖ¾ÍĞ÷
+#--------------------
+Listing remote public keys...
+ÕıÔÚÁĞ³öÔ¶³Ì¹«Ô¿...
+#--------------------
+Adding public key...
+ÕıÔÚÌí¼Ó¹«Ô¿...
+#--------------------
+Deleting public key...
+ÕıÔÚÉ¾³ı¹«Ô¿...
+#--------------------
+Public Key Files (*.pub)|*.pub|All Files (*.*)|*.*||"
+¹«Ô¿ÎÄ¼ş (*.pub)|*.pub|ËùÓĞÎÄ¼ş (*.*)|*.*||"
+#--------------------
+Uploaded public key
+ÒÑÉÏ´«¹«Ô¿
+#--------------------
+Uploading public key...
+ÕıÔÚÉÏ´«¹«Ô¿...
+#--------------------
+Connecting...
+ÕıÔÚÁ¬½Ó...
+#--------------------
+Exchanging Keys...
+ÕıÔÚ½»»»ÃÜÔ¿...
+#=========================
+#> ÓïÏµ: "English (United States)" -> "Chinese (GB)"
+#> ×Ö´®±í: 10
+#=========================
+#--------------------
+Authenticating...
+ÕıÔÚÑéÖ¤...
+#--------------------
+Connected
+ÒÑÁ¬½Ó
+#--------------------
+Disconnecting...
+ÕıÔÚ¶Ï¿ª...
+#--------------------
+Disconnected
+ÒÑ¶Ï¿ª
+#--------------------
+Successfully uploaded public key
+ÒÑ³É¹¦ÉÏ´«¹«Ô¿
+#--------------------
+Failed to upload public key
+ÉÏ´«¹«Ô¿Ê§°Ü
+#--------------------
+Close
+¹Ø±Õ
+#--------------------
+Session &settings
+»á»°ÉèÖÃ(&S)
+#--------------------
+Global &settings
+È«¾ÖÉèÖÃ(&S)
+#--------------------
+You must select at least one cipher.
+±ØĞëÑ¡ÔñÖÁÉÙÒ»¸ö¼ÓÃÜ³ÌĞò.
+#--------------------
+You must select at least one MAC.
+±ØĞëÑ¡ÔñÖÁÉÙÒ»¸ö MAC.
+#--------------------
+If no cipher is used, data sent to and from the server will NOT be encrypted.\nIf you are using password authentication, your password will NOT be encrypted.
+Èç¹ûÃ»ÓĞ¼ÓÃÜ³ÌĞò±»Ê¹ÓÃ£¬·¢ËÍµ½ºÍÀ´×Ô·şÎñÆ÷µÄÊı¾İ½«²»±»¼ÓÃÜ¡£\nÈç¹ûÄúÕıÔÚÊ¹ÓÃÃÜÂëÑéÖ¤£¬ÄúµÄÃÜÂë½«²»±»¼ÓÃÜ.
+#--------------------
+If no MAC is used, your session will be susceptible to packet insertion attacks.
+Èç¹ûÃ»ÓĞÊ¹ÓÃµÄ MAC£¬ÄúµÄ»á»°Êı¾İ°ü½«»áºÜÈİÒ×±»²åÈë¹¥»÷Êı¾İ.
+#--------------------
+Do you want to use these settings anyway?
+ÎŞÂÛÈçºÎ¶¼ÒªÊ¹ÓÃÕâĞ©ÉèÖÃÂğ?
+#--------------------
+Advanced\nSSH1 Advanced Options
+¸ß¼¶\nSSH1 ¸ß¼¶Ñ¡Ïî
+#--------------------
+&MAC (SSH2 Only):
+MAC(½ö SSH2)(&M):
+#=========================
+#> ÓïÏµ: "English (United States)" -> "Chinese (GB)"
+#> ×Ö´®±í: 11
+#=========================
+#--------------------
+Change Password
+¸ü¸ÄÃÜÂë
+#--------------------
+Properties...
+ÊôĞÔ...
+#--------------------
+Unsave Password
+²»±£´æÃÜÂë
+#--------------------
+Password has been changed.
+ÃÜÂëÒÑ¾­¸Ä±ä.
+#--------------------
+Password was not changed.
+ÃÜÂëÎ´±»¸Ä±ä.
+#--------------------
+Enter a passphrase to decrypt your private key.
+ÊäÈëÒ»¸öÍ¨ĞĞ¶ÌÓïÀ´½âÂëÄãµÄË½Ô¿.
